@@ -1,0 +1,94 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+author: Corona Studies
+email: "info@coronastudies.org"
+de:
+  title: Corona Studies. Virus, Immunität, Vorbeugung, Behandlung, Impfstoffe und nichtmedizinische Maßnahmen.
+  description: Studien, Thesenpapiere und Berichte rund um das Thema Corona, zu Virus, Immunität, Vorbeugung, Behandlung, Impfstoffen und nichtmedizinischen Maßnahmen.
+en:
+  title: Corona Studies. Virus, immunity, prevention, treatment, vaccines, and nonmedical measures. 
+  description: Studies related to corona, the virus, immunity, prevention, treatment, vaccines and non-medical measures.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://coronastudies.org"
+twitter_username: "coronastudies"
+telegram_username: "coronastudies"
+
+language: "de"
+date_format: "%Y-%m-%d"
+
+permalink: "/posts/:year/:month/:day/:title"
+
+collections:
+  studies:
+    output: true
+    permalink: "/studies/:year/:month/:day/:title"
+  posts_en:
+    output: true
+    permalink: "/posts_en/:year/:month/:day/:title"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts_en"
+    values:
+      layout: "post_en"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "studies"
+    values:
+      layout: "study"
+  - scope:
+      path: "" # any file that's not a post will be a "page" layout by default
+    values:
+      layout: "page"
+
+rss-description: Coronastudies News-Feed
+feed:
+  collections:
+    studies:
+      path: "/studies.xml"
+  posts_limit: 20
+
+# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
+excerpt_length: 50
+
+# Whether or not to show an excerpt for every blog post in the feed page
+feed_show_excerpt: false
+
+# Build settings
+# Change for local dev
+markdown: kramdown
+#theme: coronastudies-theme
+remote_theme:  covidstudies/theme
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
