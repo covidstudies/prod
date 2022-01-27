@@ -20,7 +20,7 @@ de:
   description: Studien, Thesenpapiere und Berichte rund um das Thema Corona, zu Virus, Immunität, Vorbeugung, Behandlung, Impfstoffen und nichtmedizinischen Maßnahmen.
 en:
   title: Corona Studies. Virus, immunity, prevention, treatment, vaccines, and nonmedical measures. 
-  description: Studies related to corona, the virus, immunity, prevention, treatment, vaccines and non-medical measures.
+  description: Studies, thesis papers and reports on the topic of Corona, on the virus, immunity, prevention, treatment, vaccines and non-medical measures.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://coronastudies.org"
 twitter_username: "coronastudies"
@@ -84,9 +84,10 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - scripts
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/

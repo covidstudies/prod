@@ -1,0 +1,7 @@
+---
+layout: none
+search: exclude
+---
+Datum,Titel,Beschreibung,URL,Kategorie
+{%- for studie in site.studies %}
+{{ studie.date | date: "%Y-%m-%d" }},'{{ studie.de.subtitle }}','{{ studie.de.description }}',{{ studie.credit }},{{ studie.group }}{%- endfor -%}
