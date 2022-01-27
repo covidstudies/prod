@@ -1,5 +1,5 @@
 PATH
-  remote: /Users/joroth/git/coronastudies-theme
+  remote: /Users/joroth/Development/angst-frei.ch/cs-theme
   specs:
     coronastudies-theme (0.1.0)
       jekyll (~> 3.9)
@@ -70,6 +70,7 @@ GEM
     wdm (0.1.1)
 
 PLATFORMS
+  arm64-darwin-21
   x86_64-darwin-19
 
 DEPENDENCIES
@@ -82,4 +83,4 @@ DEPENDENCIES
   wdm (~> 0.1.0)
 
 BUNDLED WITH
-   2.3.4
+   2.3.5
