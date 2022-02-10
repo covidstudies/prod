@@ -1,7 +1,6 @@
 ---
-layout:    default
-title:     Studies
-subtitle:  studies
+layout:    table
+title:     Studien
 ext-js:    ["//code.jquery.com/jquery-3.6.0.min.js", "//cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js", "//cdn.datatables.net/plug-ins/1.11.3/dataRender/ellipsis.js"]
 ext-css:   ["//cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css", "//cdn.datatables.net/responsive/2.2.9/css/responsive.dataTables.min.css"]
 js:        ["/assets/js/table-studies.js"]

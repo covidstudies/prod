@@ -9,7 +9,7 @@ authors:      'Tatlibal, P, Oral, O, Aydin, I'
 ## Autorinnen und Autoren der Studie – bitte die einfachen Anführungszeichen beachten!
 ##
 status:       default
-## Status der Publikation. Peer Reviewed = default, Preprint oder Handout (Thesenpapier)
+## Status der Publikation. default = default, Preprint oder Handout (Thesenpapier)
 ##
 en:
   subtitle:    'Vitamin, Mineral Use and Participation in Exercise during the Coronavirus-19 Pandemic Period'

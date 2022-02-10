@@ -1,0 +1,14 @@
+---
+layout: default
+group:  Nichtmedizinische Maßnahmen
+ext-js:
+  - href: "https://cdnjs.cloudflare.com/ajax/libs/cuttr/1.3.2/cuttr.min.js"
+js:
+  - "/assets/js/studies.js"
+---
+
+{% assign posts = site.studies | where: "group", "Interventions" | default: site.posts %}
+{% for post in posts reversed %}
+{% include list_de.md post=post %}
+{% endfor %}
+{% include aside_de.md %}

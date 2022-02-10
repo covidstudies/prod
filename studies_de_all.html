@@ -1,0 +1,13 @@
+---
+layout: default
+ext-js:
+  - href: "https://cdnjs.cloudflare.com/ajax/libs/cuttr/1.3.2/cuttr.min.js"
+js:
+  - "/assets/js/studies.js"
+---
+
+{% assign posts = site.studies | default: site.posts %}
+{% for post in posts reversed %}
+{% include list_de_all.md post=post %}
+{% endfor %}
+{% include aside_de.md %}

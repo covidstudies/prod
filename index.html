@@ -1,5 +1,15 @@
 ---
-layout: home
+layout: default
+ext-js:
+  - href: "https://cdnjs.cloudflare.com/ajax/libs/cuttr/1.3.2/cuttr.min.js"
+js:
+  - "/assets/js/studies.js"
 de:
   tags: [Corona, Sars-CoV-2, COVID-19, BioNTech, Moderna, AstraZeneca, Johnson & Johnson, Vitamin D, Ivermectin]
 ---
+
+{% assign posts = site.studies | default: site.posts %}
+{% for post in posts reversed %}
+{% include list_de_all.md post=post %}
+{% endfor %}
+{% include aside_de.md %}

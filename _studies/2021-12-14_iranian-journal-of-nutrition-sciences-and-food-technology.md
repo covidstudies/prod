@@ -9,7 +9,7 @@ authors:      'Nourazaran, M, Yousefi, R, Moosavi-Movahedi A'
 ## Autorinnen und Autoren der Studie – bitte die einfachen Anführungszeichen beachten!
 ##
 status:       default
-## Status der Publikation. Peer Reviewed = default, Preprint oder Handout (Thesenpapier)
+## Status der Publikation. default = default, Preprint oder Handout (Thesenpapier)
 ##
 en:
   subtitle:    'Effects of Vitamin D in fighting COVID-19 disease'

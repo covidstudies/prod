@@ -1,0 +1,16 @@
+---
+Virus:
+  de_name: Virus
+  en_name: Virus
+Immunity:
+  de_name: Immunität
+  en_name: Immunity
+Treatments:
+  de_name: Vorbeugung & Behandlung
+  en_name: Prevention & Treatment
+Vaccines:
+  de_name: Impfstoffe
+  en_name: Vaccines
+Interventions:
+  de_name: Nichtmedizinische Maßnahmen
+  en_name: Non-Medical Interventions

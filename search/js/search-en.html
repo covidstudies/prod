@@ -1,0 +1,18 @@
+---
+layout: none
+permalink: /assets/js/search-content-en.js
+---
+window.store = {
+  {%- for study in site.studies %}
+    "{{ study.url | slugify }}": {
+      "title": "{{ study.en.subtitle | xml_escape }}",
+      "author": "{{ study.authors | xml_escape }}",
+      "journal": "{{ study.title | xml_escape }}",
+      "category": "{% for category in study.en.tags %}{{ category }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
+      "content": {{ study.en.description | strip_html | jsonify }},
+      "url": "{{ study.credit | xml_escape }}"
+    }
+    {%- unless forloop.last -%},{%- endunless -%}
+  {% endfor %}
+}
+

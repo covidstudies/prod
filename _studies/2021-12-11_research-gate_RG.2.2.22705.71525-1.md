@@ -9,7 +9,7 @@ authors:      'Kerr, L, Flávio, C, Baldi, F, et al.'
 ## Autorinnen und Autoren der Studie – bitte die einfachen Anführungszeichen beachten!
 ##
 status:       Preprint
-## Status der Publikation. Peer Reviewed = default, Preprint oder Handout (Thesenpapier)
+## Status der Publikation. default = default, Preprint oder Handout (Thesenpapier)
 ##
 en:
   subtitle:    'Ivermectin prophylaxis used for COVID-19 reduces COVID-19 infection and mortality rates: A 220,517-subject, populational-level retrospective citywide'
@@ -40,4 +40,3 @@ credit:      https://www.researchgate.net/publication/356962821_Ivermectin_proph
 ## 2020-09-30-nature-immunology_s41590-020-00808-x.md
 ##
 ---
-<object data="{{ page.link }}" style='height:calc(100vh - 400px); width: 100%' type='application/pdf'></object>

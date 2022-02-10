@@ -1,0 +1,16 @@
+---
+layout: default
+title:  Search
+ext-js: ["//code.jquery.com/jquery-3.6.0.min.js", "//unpkg.com/lunr/lunr.js"]
+js:     ["/assets/js/search-content-de.js", "/assets/js/search.js"]
+---
+<article>
+<h1>{{ page.title }}</h1>
+<div class="search">
+  <form action="search_de" method="get">
+    <input type="text" id="search-box" name="query">
+    <input type="submit" value="Search">
+  </form>
+  <ul id="search-results" class="search-results"></ul>
+</div>
+<article>

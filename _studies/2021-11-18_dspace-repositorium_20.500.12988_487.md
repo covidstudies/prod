@@ -9,7 +9,7 @@ authors:      'Katundu, K'
 ## Autorinnen und Autoren der Studie – bitte die einfachen Anführungszeichen beachten!
 ##
 status:       Preprint
-## Status der Publikation. Peer Reviewed = default, Preprint oder Handout (Thesenpapier)
+## Status der Publikation. default = default, Preprint oder Handout (Thesenpapier)
 ##
 en:
   subtitle:    'Supplementation tendencies of vitamin C and D among non-severe COVID-19 patients in Blantyre, Malawi'

@@ -9,7 +9,7 @@ authors:      'Ishida, T'
 ## Autorinnen und Autoren der Studie – bitte die einfachen Anführungszeichen beachten!
 ##
 status:       default
-## Status der Publikation. Peer Reviewed = default, Preprint oder Handout (Thesenpapier)
+## Status der Publikation. default = default, Preprint oder Handout (Thesenpapier)
 ##
 en:
   subtitle:    'Zinc(II)-Induced Immunological Antiviral Activities for COVID-19 Prevention, Respiratory and Pulmonary Infection, Anti-Thrombus Formation, and ZAP-Mediated RNA Replication'
