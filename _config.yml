@@ -28,6 +28,7 @@ telegram_username: "coronastudies"
 
 language: "de"
 date_format: "%Y-%m-%d"
+avatar: "/assets/img/coronastudies-logo.png"
 
 permalink: "/posts/:year/:month/:day/:title"
 
