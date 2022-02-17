@@ -5,12 +5,17 @@ permalink: /assets/js/search-content-de.js
 window.store = {
   {%- for study in site.studies %}
     "{{ study.url | slugify }}": {
+      "date": "{{ study.date | date: "%Y-%m-%d" }}",
+      "article": "{{ study.id }}",
       "title": "{{ study.de.subtitle | xml_escape }}",
       "author": "{{ study.authors | xml_escape }}",
       "journal": "{{ study.title | xml_escape }}",
       "category": "{% for category in study.de.tags %}{{ category }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
       "content": {{ study.de.description | strip_html | jsonify }},
-      "url": "{{ study.credit | xml_escape }}"
+      "url": "{{ study.credit | xml_escape }}",
+      "group": "{{ study.group | downcase }}",
+      "groupname": "{{ site.data.groups[study.group]['de_name'] | xml_escape }}",
+      "status": "{{ study.status | xml_escape }}"
     }
     {%- unless forloop.last -%},{%- endunless -%}
   {% endfor %}

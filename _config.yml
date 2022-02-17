@@ -36,6 +36,10 @@ collections:
   studies:
     output: true
     permalink: "/studies/:year/:month/:day/:title"
+  studies_en:
+    relative_directory: "/_studies"
+    output: true
+    permalink: "/studies_en/:year/:month/:day/:title"
   posts_en:
     output: true
     permalink: "/posts_en/:year/:month/:day/:title"
@@ -56,6 +60,11 @@ defaults:
       type: "studies"
     values:
       layout: "study"
+  - scope:
+      path: ""
+      type: "studies_en"
+    values:
+      layout: "study_en"
   - scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
@@ -89,6 +98,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - scripts
+  - _studies_new
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
