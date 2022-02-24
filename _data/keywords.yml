@@ -1,0 +1,556 @@
+---
+Angiotensin konvertierendes Enzym 2:
+  tags:
+  - Angiotensin konvertierendes Enzym 2 (ACE2)
+  - ACE2 Immun-Seneszenz
+  - lösliches ACE2
+  - ACE2 shedding
+  - lösliche katalytische Ektodomäne von ACE2
+  - ACE/ACE2
+  - ACE2-Bindungsinhibitor
+  aliases:
+  - ACE2
+  matches: []
+Antikörper:
+  tags:
+  - Neutralisierende Antikörper
+  - Antikörper-Epitope
+  - Antikörperantwort
+  - monoklonale Antikörper
+  - Anti-Spike neutralisierende Antikörper
+  - RBD IgG-Antikörper
+  - Spike-Antikörper-Abnahme
+  - Bindende Antikörper
+  - Antikörper-Titer
+  - Thrombozytenfaktor-4-Antikörper
+  - Antikörper-abhängiges Enhancement
+  - PF4-Antikörper
+  - Monoklonale Antikörper
+  - Neutralisierende Antikörperreaktion
+  - S1-bindende Antikörperreaktion
+  - monoklonale Anti-SARS-CoV-2-Antikörper
+  - Antikörper-positiv
+  - Antikörper-negativ
+  matches: []
+  aliases: []
+Antiviral:
+  tags:
+  - antivirales Potential
+  - antivirale Medikamente
+  - antivirale Aktivität
+  - antiviral
+  - antivirale Therapie
+  - antivirales Medikament
+  - antivirale Mechanismen
+  - natürliche antivirale Mittel
+  - Anti-antivirale Aktivität
+  - Anti-antivirale Aktivität und Coronavirus-Erkrankungen-19
+  - antivirale Mittel
+  - antivirale Eigenschaften
+  matches: []
+  aliases: []
+Behandlung:
+  tags:
+  - Behandlungsergebnis
+  - Erfahrung in der Behandlung
+  - Frühbehandlung
+  - COVID-19-Behandlung
+  - Behandlung im Frühstadium
+  matches: []
+  aliases: []
+Bewegung:
+  tags:
+  - Bewegungsverhalten
+  - Bewegungsmangel
+  - körperliche Aktivität nach der Pandemie
+  - körperliche Inaktivität
+  - körperliches Aktivitätsniveau
+  - körperliche Betätigung
+  - Körperliche Inaktivität
+  - körperliche Anstrengung
+  - körperliche Aktivität
+  - körperliche Fitness
+  matches:
+  - körperlich
+  aliases:
+  - Körperliche Bewegung
+  - Körperliche Aktivität
+Delta-Variante:
+  tags:
+  - SARS-CoV-2 Delta-Variante
+  matches:
+  - Delta
+  aliases: []
+Eisen:
+  tags:
+  - Eisen-Nanopartikel
+  aliases: []
+  matches: []
+Entzündung:
+  tags:
+  - Entzündungsmarker
+  - Multisystem-Entzündungssyndrom bei Kindern
+  - Lungenentzündung
+  - entzündungshemmende Diät
+  - entzündungshemmend
+  - Multisystemisches Entzündungssyndrom bei Kindern
+  - Entzündungshemmung
+  - Multisystemisches Entzündungssyndrom
+  - entzündungshemmende Stoffe
+  - ernährungsbedingter Entzündungsindex
+  - entzündungshemmende Medikamente
+  matches: []
+  aliases: []
+Ernährung:
+  tags:
+  - pflanzliche Ernährung
+  - vegane Ernährung
+  - Mangelernährung
+  - Ernährungsmuster
+  - COVID-19 und Ernährung
+  - Ernährungsungleichheiten
+  - Ernährungsbedingte Immunität
+  - Qualität der Ernährung
+  - Doppelbelastung durch Mangelernährung
+  - Ernährungsverhalten
+  - Ernährungsunsicherheit
+  - Ernährungsdefizite
+  - mediterrane Ernährung
+  - ernährungsbedingter Entzündungsindex
+  matches: []
+  aliases: []
+Gesundheit:
+  tags:
+  - psychische Gesundheit
+  - Gesundheitspolitik
+  - gesundheitsbezogene Angaben
+  - Gesundheitsverhalten
+  - Mitarbeiter des Gesundheitswesens
+  - Gesundheitsvorsorge
+  - Öffentliche Gesundheit
+  - menschliche Gesundheit
+  - Online-Gesundheitsinformationen
+  - Psychische Gesundheit
+  - Gesundheitsbeschwerden
+  - betriebliche Gesundheitsförderung
+  - Gesundheitsinformationen
+  - Lungengesundheit
+  - geistige Gesundheit
+  - ganzheitliche Gesundheit
+  - Gesundheitssicherheit
+  - Gesundheitspersonal
+  - Fachkräfte des Gesundheitswesens
+  - nachhaltige Gesundheit
+  - Gesundheit und Wellness
+  - Frauengesundheit
+  - Bewertung des Gesundheitsrisikos
+  - Mentale Gesundheit
+  - Metabolische Gesundheit
+  - pharmazeutische Gesundheitsinfrastruktur
+  - gesundes Altern
+  - gesunder Lebensstil
+  - Gesundheitszustand
+  matches:
+  - gesund
+  aliases: []
+Gewicht:
+  tags:
+  - Gewichtsveränderungen
+  - Körpergewicht
+  - Gewichtszunahme
+  aliases:
+  - Fettleibigkeit
+  - Übergewicht
+  denys:
+  - Gleichgewicht
+  matches: []
+Hydroxychloroquin:
+  tags: []
+  aliases: []
+  matches: []
+Immunität:
+  tags:
+  - T-Zellen-Immunität
+  - Autoimmunität
+  - Körperimmunität
+  - Immunitätsstärkung
+  - Angeborene Immunität
+  - Ernährungsbedingte Immunität
+  - Virale Immunität
+  - Adaptive Immunität
+  - Zellvermittelte Immunität
+  - Impfstoff-induzierte Immunität
+  - immunitätsfördernde Lebensmittel
+  - Herdenimmunität
+  - Stärkung der Immunität
+  - Natürliche Immunität
+  - natürliche Immunität
+  matches: []
+  aliases: []
+Immunsystem:
+  tags:
+  - geschwächtes Immunsystem
+  aliases: []
+  matches: []
+Impfstoffe:
+  tags:
+  - SARS-CoV-2-Impfungen
+  - Impfstoffe
+  - Impfstoff-Durchbruchsinfektionen
+  - impfstoffinduzierte immunthrombotische Thrombozytopenie
+  - mRNA-Impfstoff
+  - ChAdOx1 nCoV-19-Impfstoff
+  - Ad26.COV2-Impfstoff
+  - Impfstoff-induzierte immunthrombotische Thrombozytopenie
+  - Covid-Impfstoff-Wirksamkeit
+  - Wirksamkeit des Impfstoffs
+  - Impfstofftyp
+  - Impfstoff-induzierte thrombotische Thrombozytopenie
+  - Impfstoff-Nebenwirkungen
+  - LNP-formulierte mRNA-Impfstoffe
+  - Impfstoff der Universität Oxford
+  - Anti-SARS-CoV-2-Impfstoff
+  - Impfstoff-induzierte Immunität
+  - ChAdOx1 nCoV-19 Coronavirus-Impfstoff
+  - Impfstoff-induzierte thrombotische Thrombozytopenie (VITT)
+  - Ergänzung zu Impfstoffen
+  - Impfstoff-Nationalismus
+  - Impfstoff-assoziierte thrombotische Thrombozytopenie
+  - Impfstoff-induzierte (immunologische) thrombotische Thrombozytopenie
+  - mRNA-Impfstoffe
+  - Virale Vektorimpfstoffe
+  - Impfstoffsicherheit
+  - messenger RNA (mRNA) COVID-19 Impfstoffe
+  - Impfstoffschutz
+  - Impfstoff Durchbruchinfektionen
+  - Wirksamkeit der Impfstoffe
+  - Adenovirus-vermittelte Impfstoffe
+  - Vermeidung von heparinähnlichen Antikoagulantien ChAdOx-Impfstoff
+  - Adenovirus-Vektor-DNA & RNA-basierte SARS-CoV-2-Impfstoffe
+  - mRNA-basierter Impfstoff
+  - Impfung
+  - Impfstoffadjuvans
+  - Impfstoff-Nanoträger
+  - mRNA COVID-19-Impfstoffe
+  - COVID-19-Impfstoff
+  - Impfstoff von Pfizer
+  - Anti-Impfstoff
+  - Impfstoffmisstrauen
+  aliases:
+  - Impfung
+  matches:
+  - Impfstoff
+Infektion:
+  tags:
+  - Virale Infektionen
+  - Infektionskrankheiten
+  - Impfstoff-Durchbruchsinfektionen
+  - Atemwegsinfektionen
+  - Reinfektion
+  - Rolle bei der COVID-19-Infektion
+  - akute Atemwegsinfektion (ARTI)
+  - Infektionskrankheiten der Atemwege
+  - Prä-Infektion
+  - Virusinfektionen der Atemwege
+  - Risiko einer symptomatischen Infektion
+  - Durchbruchinfektionen
+  - Virusinfektion
+  - Atemwegsvirusinfektion
+  - Vitamin-D3-Spiegel vor der Infektion
+  - Infektionsrisiko
+  - Virusinfektionen
+  - Infektionsraten
+  - Infektionsausbruch
+  - Reinfektionen
+  - Infektionsrate
+  - Lungeninfektion
+  - akute Atemwegsinfektionen
+  - Impfstoff Durchbruchinfektionen
+  - akute virale Infektionen der Atemwege
+  - Schwere der Infektion
+  - frühere Infektion
+  matches: []
+  aliases: []
+Ivermectin:
+  tags: []
+  aliases: []
+  matches: []
+Jugend:
+  tags:
+  - Multisystem-Entzündungssyndrom bei Kindern
+  - Jugendliche
+  - Multisystemisches Entzündungssyndrom bei Kindern
+  - Schulkinder
+  - Kinder
+  - junge Erwachsene
+  - Kinder-Adipositas
+  matches:
+  - junge
+  aliases:
+  - Kind
+Kupfer:
+  tags:
+  - Kupfer-Nanopartikel
+  aliases: []
+  matches: []
+Magnesium:
+  tags:
+  - Magnesium-Supplementierung
+  matches: []
+  aliases: []
+Mikronährstoffe:
+  tags:
+  - Mikronährstoffmangel
+  - Mikronährstoffergänzungen
+  matches:
+  - Mikronährstoff
+  aliases: []
+Mortalität:
+  tags:
+  - Sterblichkeitsrate
+  - Komorbidität
+  - CVD und COVID-19 Komorbidität
+  - Komorbidität-COVID-19
+  - Komorbiditäten
+  aliases:
+  - Sterblichkeit
+  - Morbidität
+  matches: []
+Nahrungsergänzung:
+  tags:
+  - Nahrungsergänzungsmittel
+  aliases: []
+  matches: []
+Omega-3:
+  tags:
+  - Omega-3-Fettsäuren
+  - Omega-3-Vitamine
+  matches: []
+  aliases: []
+Omicron-Variante:
+  tags:
+  - mRNA-Omicron
+  - Omicron
+  matches:
+  - Omicron
+  aliases: []
+Pandemie:
+  tags:
+  - zukünftige Pandemien
+  - COVID-19-Pandemie
+  - Pandemien
+  - körperliche Aktivität nach der Pandemie
+  matches: []
+  aliases: []
+Prävention:
+  tags:
+  - COVID-19-Prävention
+  - Lebensstilprävention
+  - Coronavirus-Krankheit-2019-Prävention
+  - SARS-CoV-2-Prävention
+  matches: []
+  aliases: []
+Remdesivir:
+  tags:
+  - orales Remdesivir
+  aliases: []
+  matches: []
+Risikofaktoren:
+  tags: []
+  aliases: []
+  matches: []
+Schweregrad:
+  tags:
+  - klinischer Schweregrad
+  - COVID-19-Schweregrad
+  aliases: []
+  matches: []
+Selen:
+  tags:
+  - Selenoproteine
+  - viral kodierte Selenoproteine
+  - Selenmangel
+  - Pflanzen-Selen-Verbindungen
+  - Selenit
+  - Selen-Nanopartikel
+  matches: []
+  aliases: []
+Spurenelemente:
+  tags: []
+  aliases: []
+  matches: []
+Supplementierung:
+  tags:
+  - Vitamin-E-Supplementierung
+  - Vitaminsupplementierung
+  - Magnesium-Supplementierung
+  - Vitamin-D-Supplementierung
+  aliases: []
+  matches: []
+Thrombose:
+  tags:
+  - zerebrale venöse Sinusthrombose
+  - zerebrale Venensinusthrombose
+  - Thrombose mit Thrombozytopenie-Syndrom
+  - Zerebrale Venenthrombose (CVT)
+  - Splanchnische Venenthrombose
+  - Zerebrale Venenthrombose
+  - Pneumonie-bedingte Thrombose
+  - Venöse Thrombose
+  - Atherothrombose
+  - Thrombose - arteriell
+  matches: []
+  aliases: []
+Thrombozytopenie:
+  tags:
+  - impfstoffinduzierte immunthrombotische Thrombozytopenie
+  - Impfstoff-induzierte immunthrombotische Thrombozytopenie
+  - Impfstoff-induzierte thrombotische Thrombozytopenie
+  - Thrombose mit Thrombozytopenie-Syndrom
+  - Prothrombotische Immunthrombozytopenie
+  - Heparin-induzierte Thrombozytopenie (HIT)
+  - Impfstoff-induzierte thrombotische Thrombozytopenie (VITT)
+  - Impfstoff-assoziierte thrombotische Thrombozytopenie
+  - Impfstoff-induzierte (immunologische) thrombotische Thrombozytopenie
+  - Thrombotische Thrombozytopenie Purpura
+  - Heparin-induzierte Thrombozytopenie
+  matches: []
+  aliases: []
+Virus:
+  tags:
+  - Coronavirus-Krankheit 2019
+  - Coronavirus-Erkrankung 2019
+  - Viruseintritt
+  - Virusübertragung
+  - Atemwegsvirus
+  - Virus and oxidativer stress
+  - Adenovirus
+  - Virusinfektionen der Atemwege
+  - SARS-CoV-2 RNA-Virus und RNA-Mutanten
+  - Coronavirus-Erkrankung (COVID-19)
+  - Schweres Akutes Respiratorisches Syndrom Coronavirus 2
+  - SARS-CoV-2-Virus
+  - Virusinfektion
+  - ChAdOx1 nCoV-19 Coronavirus-Impfstoff
+  - Influenzavirus
+  - Atemwegsvirusinfektion
+  - Virusinfektionen
+  - RNA-Virus
+  - Coronaviruserkrankung 2019
+  - Coronavirus-Erkrankungen-19
+  - Anti-antivirale Aktivität und Coronavirus-Erkrankungen-19
+  - Coronavirus-Krankheit-2019-Prävention
+  - Antivirus
+  - Viruslast
+  - Humanes Immundefizienz-Virus
+  - Coronavirus-induzierte Krankheit 2019
+  - 2019 neuartiges Coronavirus
+  - Adenovirus-vermittelte Impfstoffe
+  - Adenovirus-DNA-Integration in Säugetiergenome
+  - Adenovirus-Vektor-DNA-Integration in menschliches Genom
+  - Adenovirus-Vektor-DNA & RNA-basierte SARS-CoV-2-Impfstoffe
+  - SARS-Cov-2-Virus
+  - Virusvarianten
+  matches: []
+  aliases: []
+Vitamin B:
+  tags:
+  - Vitamin B6
+  - Vitamin B12
+  aliases: []
+  matches: []
+Vitamin C:
+  tags:
+  - Serum Vitamin C
+  - intravenöses Vitamin C
+  matches: []
+  aliases: []
+Vitamin D:
+  tags:
+  - Serum Vitamin D
+  - Vitamin-D-verwandte Gene
+  - hochdosierte orale Vitamin-D-Therapie
+  - Vitamin D-Mangel
+  - niedriger Vitamin-D-Status
+  - 25-Hydroxyvitamin D
+  - Vitamin D Toxizität
+  - Vitamin D3
+  - Vitamin D-Rezeptor
+  - Vitamin-D-Rezeptor (VDR)
+  - 25-Hydroxyvitamin D-1alpha-Hydroxylase (CYP27B1)
+  - Vitamin-D3-Spiegel vor der Infektion
+  - niedriger 25(OH)-Vitamin-D-Plasmaspiegel
+  - Vitamin-D-Rezeptoren (VDR)
+  - 1-25-Dihidroxyvitamin D
+  - Vitamin-D-Insuffizienz
+  - 1.25-Dihydroxyvitamin D
+  - 25-Hydroxyvitamin D31α
+  - 25-Dihydroxyvitamin D
+  - Vitamin-D-Status
+  - Vitamin-D-Supplementierung
+  - Serum-Vitamin-D-Spiegel
+  - Vitamin-D-Supplementation
+  - Vitamin-D-Mangel
+  matches: []
+  aliases: []
+Vitamin E:
+  tags:
+  - Vitamin-E-Supplementierung
+  matches: []
+  aliases: []
+Vitamine:
+  tags:
+  - Omega-3-Vitamine
+  aliases: []
+  matches: []
+Vorbeugung:
+  tags:
+  - Behandlungsergebnis
+  - Erfahrung in der Behandlung
+  - Frühbehandlung
+  - COVID-19-Behandlung
+  - Behandlung im Frühstadium
+  aliases:
+  - Behandlung
+  matches: []
+Vorsorge:
+  tags:
+  - Gesundheitsvorsorge
+  - Chemoprophylaxe
+  aliases:
+  - Prophylaxe
+  matches: []
+Zink:
+  tags:
+  - Zinktherapie
+  - Zink-Homöostase
+  - Zink-Ionen-koordinierte Bindung
+  - Zink n-3 PUFA
+  - Zinkmangel
+  matches: []
+  aliases: []
+Zytokin:
+  tags:
+  - Zytokinsturm
+  - Zytokine
+  - Regulierung der Zytokinantwort
+  - Zytokin-Sturm-Syndrom
+  - entzündliche Zytokine
+  - löslicher IL-6R
+  matches: []
+  aliases:
+  - IL-6
+mRNA-Impfstoff:
+  tags:
+  - LNP-formulierte mRNA-Impfstoffe
+  - mRNA-Impfstoffe
+  - mRNA-Omicron
+  - mRNA-1273
+  - mRNA
+  - messenger RNA (mRNA) COVID-19 Impfstoffe
+  - mRNA-basierter Impfstoff
+  - mrna
+  - mRNA COVID-19-Impfstoffe
+  matches:
+  - mRNA
+  aliases: []

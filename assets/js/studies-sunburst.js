@@ -28,47 +28,46 @@ d3.json("tree-studies.json")
   root.each(d => d.current = d);
 
   const svg = d3.select("article").append("svg")
-      .attr("viewBox", [0, 0, width, width])
-      .style("font", "10px sans-serif");
+    .attr("viewBox", [0, 0, width, width])
+    .style("font", "10px sans-serif");
 
   const g = svg.append("g")
-      .attr("transform", `translate(${width / 2},${width / 2})`);
+    .attr("transform", `translate(${width / 2},${width / 2})`);
 
   const path = g.append("g")
     .selectAll("path")
     .data(root.descendants().slice(1))
     .join("path")
-      .attr("fill", d => { while (d.depth > 1) d = d.parent; return color(d.data.name); })
-      .attr("fill-opacity", d => arcVisible(d.current) ? (d.children ? 0.6 : 0.4) : 0)
-      .attr("pointer-events", d => arcVisible(d.current) ? "auto" : "none")
-
-      .attr("d", d => arc(d.current));
+    .attr("fill", d => { while (d.depth > 1) d = d.parent; return color(d.data.name); })
+    .attr("fill-opacity", d => arcVisible(d.current) ? (d.children ? 0.6 : 0.4) : 0)
+    .attr("pointer-events", d => arcVisible(d.current) ? "auto" : "none")
+    .attr("d", d => arc(d.current))
 
   path.filter(d => d.children)
-      .style("cursor", "pointer")
-      .on("click", clicked);
+    .style("cursor", "pointer")
+    .on("click", clicked);
 
   path.append("title")
-      .text(d => `${d.ancestors().map(d => d.data.name).reverse().join("/")}\n${format(d.value)}`);
+    .text(d => `${d.ancestors().map(d => d.data.name).reverse().join("/")}\n${format(d.value)}`);
 
   const label = g.append("g")
-      .attr("pointer-events", "none")
-      .attr("text-anchor", "middle")
-      .style("user-select", "none")
+    .attr("pointer-events", "none")
+    .attr("text-anchor", "middle")
+    .style("user-select", "none")
     .selectAll("text")
     .data(root.descendants().slice(1))
     .join("text")
-      .attr("dy", "0.35em")
-      .attr("fill-opacity", d => +labelVisible(d.current))
-      .attr("transform", d => labelTransform(d.current))
-      .text(d => d.data.name);
+    .attr("dy", "0.35em")
+    .attr("fill-opacity", d => +labelVisible(d.current))
+    .attr("transform", d => labelTransform(d.current))
+    .text(d => d.data.name);
 
   const parent = g.append("circle")
-      .datum(root)
-      .attr("r", radius)
-      .attr("fill", "none")
-      .attr("pointer-events", "all")
-      .on("click", clicked);
+    .datum(root)
+    .attr("r", radius)
+    .attr("fill", "none")
+    .attr("pointer-events", "all")
+    .on("click", clicked);
 
   function clicked(event, p) {
     parent.datum(p.parent || root);

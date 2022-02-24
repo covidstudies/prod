@@ -227,8 +227,6 @@ vitamin D:
 - - Knowledge, awareness and practice of vitamin D among population of Qassim Region,
     Saudi Arabia before and during COVID-19 pandemic
   - "/studies/2021/11/07/10.26656_fr.2017.5(6).237.html"
-- - The Role of Vitamin C, Vitamin D, and Selenium in Immune System against COVID-19
-  - "/studies/2020/11/16/10.3390_molecules25225346.html"
 - - 'COVID-19 mortality risk correlates inversely with vitamin D3 status, and a mortality
     rate close to zero could theoretically be achieved at 50 ng/ml 25(OH)D3: Results
     of a systematic review and meta-analysis'
@@ -669,8 +667,6 @@ vitamin C:
 - - 'Effect of micronutrient supplements on influenza and other respiratory tract
     infections among adults: a systematic review and meta-analysis'
   - "/studies/2021/01/19/10.1136_bmjgh-2020-003176.html"
-- - The Role of Vitamin C, Vitamin D, and Selenium in Immune System against COVID-19
-  - "/studies/2020/11/16/10.3390_molecules25225346.html"
 - - The Effect of Nutritional Micronutrients in Immune System against Coronavirus
     Disease (COVID-19)
   - "/studies/2021/10/29/annals-food-science-and-technology_22-2.html"
@@ -827,40 +823,6 @@ older adults:
 - - Approaches to Nutritional Screening in Patients with Coronavirus Disease 2019
     (COVID-19)
   - "/studies/2021/03/09/10.3390_ijerph18052772.html"
-Coronavirus:
-- - Vitamin D3 and K2 and their potential contribution to reducing the COVID-19 mortality
-    rate
-  - "/studies_en/2020/08/05/10.1016_j.ijid.2020.07.080.html"
-- - 'Ivermectin and mortality in patients with COVID-19: A systematic review, meta-analysis,
-    and meta-regression of randomized controlled trials'
-  - "/studies/2021/06/27/10.1016_j.dsx.2021.102186.html"
-- - Effects of Vitamin D in fighting COVID-19 disease
-  - "/studies/2021/12/14/iranian-journal-of-nutrition-sciences-and-food-technology.html"
-- - 'Changes in healthcare seeking and lifestyle in old aged individuals during COVID-19
-    lockdown in Germany: the population-based AugUR study'
-  - "/studies/2022/01/08/10.1186_s12877-021-02677-x.html"
-- - The sufficient vitamin D and albumin level have a protective effect on COVID-19
-    infection
-  - "/studies/2021/07/30/10.1007_s00203-021-02482-5.html"
-- - 'Effects of adding L-arginine orally to standard therapy in patients with COVID-19:
-    A randomized, double-blind, placebo-controlled, parallel-group trial. Results
-    of the first interim analysis'
-  - "/studies/2021/09/09/10.1016_j.eclinm.2021.101125.html"
-- - 'TMPRSS2: A potential target for treatment of influenza virus and coronavirus
-    infections'
-  - "/studies/2017/08/01/10.1016_j.biochi.2017.07.016.html"
-- - Role of vitamins and minerals as immunity boosters in COVID-19
-  - "/studies/2021/06/10/10.1007_s10787-021-00826-7.html"
-- - Vitamins and other immune-supportive elements as cofactors for passing the COVID-19
-    pandemic
-  - "/studies/2021/10/29/10.1186_s43088-021-00163-2.html"
-- - New diagnosis of multiple sclerosis in the setting of mRNA COVID-19 vaccine exposure
-  - "/studies/2021/12/09/10.1016_j.jneuroim.2021.577785.html"
-- - Ultraviolet radiation, vitamin D, and COVID-19
-  - "/studies/2021/04/29/10.23736_S2784-8671.21.06833-4.html"
-- - 'Nutritional approach for increasing public health during pandemic of COVID-19:
-    A comprehensive review of antiviral nutrients and nutraceuticals'
-  - "/studies/2021/05/19/10.34172_hpp.2021.17.html"
 Immunology:
 - - Vitamin D3 and K2 and their potential contribution to reducing the COVID-19 mortality
     rate
@@ -980,6 +942,8 @@ Vitamin D:
   - "/studies/2021/03/13/10.1016_j.ejphar.2021.174031.html"
 - - 'Active vitamin D supplementation and COVID-19 infections: review'
   - "/studies/2021/01/06/10.1007_s11845-020-02452-8.html"
+- - The Role of Vitamin C, Vitamin D, and Selenium in Immune System against COVID-19
+  - "/studies/2020/11/16/10.3390_molecules25225346.html"
 - - 'Quercetin and Vitamin C: An Experimental, Synergistic Therapy for the Prevention
     and Treatment of SARS-CoV-2 Related Disease (COVID-19)'
   - "/studies/2020/06/19/10.3389_fimmu.2020.01451.html"
@@ -1017,20 +981,12 @@ immunopathogenesis:
 infectious disease:
 - - Vitamin D Supplementation and COVID-19
   - "/studies_en/2022/01/30/10.20473-jr.v8-I.1.2022.60-68.html"
-- - Can Optimum Solar Radiation Exposure or Supplemented Vitamin D Intake Reduce the
-    Severity of COVID-19 Symptoms?
-  - "/studies/2021/01/16/10.3390_ijerph18020740.html"
-- - Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the
-    Prophylaxis and Treatment of COVID-19
-  - "/studies/2021/04/22/10.1097_MJT.0000000000001377.html"
 - - Nutrition, immunity and COVID-19
   - "/studies/2020/05/20/10.1136_bmjnph-2020-000085.html"
-- - The Role of Vitamin C, Vitamin D, and Selenium in Immune System against COVID-19
-  - "/studies/2020/11/16/10.3390_molecules25225346.html"
 T cell immunity:
 - - SARS-CoV-2-derived peptides define heterologous and COVID-19-induced T cell recognition
   - "/studies_en/2020/09/30/10.1038_s41590-020-00808-x.html"
-SARS-CoV-2-peptides:
+Peptides:
 - - SARS-CoV-2-derived peptides define heterologous and COVID-19-induced T cell recognition
   - "/studies_en/2020/09/30/10.1038_s41590-020-00808-x.html"
 overweight:
@@ -1439,82 +1395,6 @@ Azithromycin:
 barriers:
 - - Placing a Well-Designed Vegan Diet for Slovenes
   - "/studies_en/2021/12/18/10.3390_nu13124545.html"
-coronavirus:
-- - Placing a Well-Designed Vegan Diet for Slovenes
-  - "/studies_en/2021/12/18/10.3390_nu13124545.html"
-- - Vitamine D and Covid-19
-  - "/studies/2021/02/15/10.1016_j.actpha.2021.02.012.html"
-- - 'Potential Natural Products Against Respiratory Viruses: A Perspective to Develop
-    Anti-COVID-19 Medicines'
-  - "/studies/2021/02/17/10.3389_fphar.2020.586993.html"
-- - Cardiovascular magnetic resonance findings in non-hospitalized paediatric patients
-    after recovery from COVID-19
-  - "/studies/2021/10/27/10.1002_ehf2.13678.html"
-- - 'Moving Forward: Understanding Correlates of Physical Activity and Sedentary Behaviour
-    during COVID-19—An Integrative Review and Socioecological Approach'
-  - "/studies/2021/10/17/10.3390_ijerph182010910.html"
-- - 'Repurposing Ivermectin for COVID-19: Molecular Aspects and Therapeutic Possibilities'
-  - "/studies/2021/03/30/10.3389_fimmu.2021.663586.html"
-- - 'Ivermectin prophylaxis used for COVID-19 reduces COVID-19 infection and mortality
-    rates: A 220,517-subject, populational-level retrospective citywide'
-  - "/studies/2021/12/11/research-gate_RG.2.2.22705.71525-1.html"
-- - Review of Evidence Available on Hesperidin-Rich Products as Potential Tools against
-    COVID-19 and Hydrodynamic Cavitation-Based Extraction as a Method of Increasing
-    Their Production
-  - "/studies/2020/05/08/10.3390_pr8050549.html"
-- - Moderate-to-vigorous intensity physical activity among adolescents in the USA
-    during the COVID-19 pandemic
-  - "/studies/2021/12/27/10.1016_j.pmedr.2021.101685.html"
-- - 'Psychological Health and Physical Activity Levels during the COVID-19 Pandemic:
-    A Systematic Review'
-  - "/studies/2020/12/15/10.3390_ijerph17249419.html"
-- - Can Optimum Solar Radiation Exposure or Supplemented Vitamin D Intake Reduce the
-    Severity of COVID-19 Symptoms?
-  - "/studies/2021/01/16/10.3390_ijerph18020740.html"
-- - Perceived restrictions during the COVID-19 pandemic by older persons in Switzerland
-  - "/studies/2022/01/10/10.1007_s16024-021-00364-w.html"
-- - Serum levels of vitamin D and immune system function in patients with COVID-19
-    admitted to intensive care unit
-  - "/studies/2022/01/15/10.1016_j.genrep.2022.101509.html"
-- - 'Tea Bioactive Modulate Innate Immunity: In Perception to COVID-19 Pandemic'
-  - "/studies/2020/10/28/10.3389_fimmu.2020.590716.html"
-- - 'Vitamins, supplements and COVID-19: a review of currently available evidence'
-  - "/studies/2021/10/06/10.7573_dic.2021-6-2.html"
-- - Vitamin D in the time of the coronavirus (COVID-19) pandemic - a clinical review
-    from a public health and public mental health perspective
-  - "/studies/2021/07/09/10.1177_20451253211027699.html"
-- - Reproductive and developmental safety of nirmatrelvir (PF-07321332), an oral SARS-CoV-2
-    Mpro inhibitor in animal models
-  - "/studies/2022/02/01/10.1016-j.reprotox.2022.01.006.html"
-- - 'Strictly regular use of ivermectin as prophylaxis for COVID-19 leads to a 90%
-    reduction in COVID-19 mortality rate, in a dose-response manner: definitive results
-    of a prospective observational study of a strictly controlled 223,128 population
-    from a city-wide program in Southern Brazil.'
-  - "/studies/2022/02/06/researchgate_358386329.html"
-- - Zinc sulfate in combination with a zinc ionophore may improve outcomes in hospitalized
-    COVID-19 patients
-  - "/studies/2020/09/15/10.1099_jmm.0.001250.html"
-- - 'Vitamin D and COVID-19: An Overview of Recent Evidence'
-  - "/studies/2021/09/29/10.3390_ijms221910559.html"
-- - 'Lung-Centric Inflammation of COVID-19: Potential Modulation by Vitamin D'
-  - "/studies/2021/06/28/10.3390_nu13072216.html"
-- - Postulated Adjuvant Therapeutic Strategies for COVID-19
-  - "/studies/2020/08/05/10.3390_jpm10030080.html"
-- - 'Sociodemographic Predictors Associated with the Willingness to Get Vaccinated
-    against COVID-19 in Peru: A Cross-Sectional Survey'
-  - "/studies/2021/12/30/10.3390_vaccines10010048.html"
-- - Micronutrient Deficiency as a Confounder in Ascertaining the Role of Obesity in
-    Severe COVID-19 Infection
-  - "/studies/2022/01/20/10.3390_ijerph19031125.html"
-- - The Role of Herbal and Nutritional Treatments in the Fight against COVID-19 and
-    Other Respiratory Tract Infections
-  - "/studies/2021/11/16/10.3390_ijerph182212001.html"
-- - Identification of 3-chymotrypsin like protease (3CLPro) inhibitors as potential
-    anti-SARS-CoV-2 agents
-  - "/studies/2021/01/20/10.1038_s42003-020-01577-x.html"
-- - 'Possible Therapeutic Effects of Adjuvant Quercetin Supplementation Against Early-Stage
-    COVID-19 Infection: A Prospective, Randomized, Controlled, and Open-Label Study'
-  - "/studies/2021/06/08/10.2147_IJGM.S318720.html"
 education:
 - - Placing a Well-Designed Vegan Diet for Slovenes
   - "/studies_en/2021/12/18/10.3390_nu13124545.html"
@@ -1659,15 +1539,67 @@ ICU admission:
 Hospitalization:
 - - 'The link between COVID-19 and VItamin D (VIVID): A systematic review and meta-analysis'
   - "/studies_en/2021/03/24/10.1016_j.metabol.2021.154753.html"
-COVID-19 vaccines:
+Vaccines:
 - - 'COVID-19 incidence, severity, medication use, and vaccination among dentists:
     Staggering body of evidence obtained from a survey during the second wave in Brazil'
   - "/studies_en/2022/01/12/10.1590_SciELOPreprints.3483.html"
+- - 'COVID-19 in Africa: rethinking the tools to manage future pandemics'
+  - "/studies/2021/12/14/10.4314_ahs.v21i4.3.html"
+- - 'Vaccine induced thrombotic thrombocytopenia: The shady chapter of a success story.'
+  - "/studies/2021/06/18/10.1016_j.metop.2021.100101.html"
+- - Putative Role of Vitamin D for COVID-19 Vaccination
+  - "/studies/2021/08/20/10.3390_ijms22168988.html"
+- - Considerations in boosting COVID-19 vaccine immune responses
+  - "/studies/2021/09/13/10.1016_S0140-6736(21)02046-8.html"
+- - 'Fatal vaccine-induced immune thrombotic thrombocytopenia (VITT) post Ad26.COV2.S:
+    first documented case outside US'
+  - "/studies/2021/10/09/10.1007_s15010-021-01712-8.html"
+- - Pathophysiology of Vaccine-Induced Prothrombotic Immune Thrombocytopenia (VIPIT)
+    and Vaccine-Induced Thrombocytopenic Thrombosis (VITT) and Their Diagnostic Approach
+    in Emergency.
+  - "/studies/2021/09/22/10.3390_medicina57100997.html"
+- - Immune imprinting, breadth of variant recognition, and germinal center response
+    in human SARS-CoV-2 infection and vaccination
+  - "/studies/2022/01/24/10.1016-j.cell.2022.01.018.html"
+- - 'SARS-CoV-2 vaccine-associated-tinnitus: A review'
+  - "/studies/2022/01/25/10.1016_j.amsu.2022.103293.html"
+- - Painless thyroiditis following mRNA vaccination for COVID-19
+  - "/studies/2022/01/15/10.1007_s42000-021-00346-7.html"
+- - 'Cutting Edge: Circulating Exosomes with COVID Spike Protein Are Induced by BNT162b2
+    (Pfizer–BioNTech) Vaccination prior to Development of Antibodies: A Novel Mechanism
+    for Immune Activation by mRNA Vaccines'
+  - "/studies/2021/10/15/10.4049_jimmunol.2100637.html"
+- - Multisystem Inflammatory Syndrome after Ad26.COV2.S vaccination
+  - "/studies/2022/01/21/10.1016_j.idcr.2022.e01411.html"
+- - 'Symptomatic SARS-CoV-2 infections after full schedule BNT162b2 vaccination in
+    seropositive healthcare workers: a case series from a single institution'
+  - "/studies/2021/06/09/10.1080_22221751.2021.1942230.html"
+- - 'Serious complications of COVID-19 vaccines: A mini-review'
+  - "/studies/2021/10/30/10.1016_j.metop.2021.100145.html"
+- - 'Sociodemographic Predictors Associated with the Willingness to Get Vaccinated
+    against COVID-19 in Peru: A Cross-Sectional Survey'
+  - "/studies/2021/12/30/10.3390_vaccines10010048.html"
 - - 'Blood clots and bleeding events following BNT162b2 and ChAdOx1 nCoV-19 vaccine:
     An analysis of European data'
   - "/studies/2021/06/23/10.1016_j.jaut.2021.102685.html"
-- - New diagnosis of multiple sclerosis in the setting of mRNA COVID-19 vaccine exposure
-  - "/studies/2021/12/09/10.1016_j.jneuroim.2021.577785.html"
+- - 'A review: Antibody-dependent enhancement in COVID-19: The not so friendly side
+    of antibodies'
+  - "/studies/2021/10/10/10.1177_20587384211050199.html"
+- - Molecular Bases for Pharmacotherapy of COVID -19
+  - "/studies/2021/05/01/medical-and-clinical-research_ISSN_2577-8005.html"
+- - Myocarditis following COVID-19 vaccination – A case series
+  - "/studies/2021/10/08/10.1016_j.vaccine.2021.09.004.html"
+- - Relationship between Vitamin D Status and Antibody Response to COVID-19 mRNA Vaccination
+    in Healthy Adults
+  - "/studies/2021/11/18/10.3390_biomedicines9111714.html"
+- - Principles for optimization and validation of mRNA lipid nanoparticle vaccines
+    against COVID-19 using 3D bioprinting
+  - "/studies/2022/01/21/10.1016_j.nantod.2022.101403.html"
+- - Prothrombotic immune thrombocytopenia after COVID-19 vaccination
+  - "/studies/2021/05/02/10.1016_j.ajem.2021.05.001.html"
+- - SARS–CoV–2 Spike Impairs DNA Damage Repair and Inhibits V(D)J Recombination In
+    Vitro
+  - "/studies/2021/10/13/10.3390_v13102056.html"
 ivermectin:
 - - 'COVID-19 incidence, severity, medication use, and vaccination among dentists:
     Staggering body of evidence obtained from a survey during the second wave in Brazil'
@@ -2011,6 +1943,19 @@ Vaccination:
 - - 'Zinc and Respiratory Viral Infections: Important Trace Element in Anti-viral
     Response and Immune Regulation '
   - "/studies/2021/08/09/10.1007_s12011-021-02859-z.html"
+- - Prothrombotic immune thrombocytopenia after COVID-19 vaccination
+  - "/studies/2021/07/29/10.1182_blood.2021011958.html"
+- - 'Effectiveness of Covid-19 Vaccination Against Risk of Symptomatic Infection,
+    Hospitalization, and Death Up to 9 Months: A Swedish Total-Population Cohort Study'
+  - "/studies/2021/10/25/10.2139_ssrn.3949410.html"
+- - 'Spontaneous HIT syndrome: Knee replacement, infection, and parallels with vaccine-induced
+    immune thrombotic thrombocytopenia'
+  - "/studies/2021/06/08/0.1016_j.thromres.2021.05.018.html"
+- - 'Cerebral venous thrombosis after vaccination against COVID-19 in the UK: a multicentre
+    cohort study'
+  - "/studies/2021/08/06/10.1016_S0140-6736(21)01608-1.html"
+- - Necessity of COVID-19 vaccination in previously infected individuals
+  - "/studies/2021/06/19/10.1101_2021.06.01.21258176.html"
 - - Spectrum of neurological complications following COVID-19 vaccination
   - "/studies/2021/10/30/10.1007_s10072-021-05662-9.html"
 - - Perspectives on vaccine induced thrombotic thrombocytopenia
@@ -2021,9 +1966,6 @@ Comirnaty:
 - - Epidemiology of Acute Myocarditis/Pericarditis in Hong Kong Adolescents Following
     Comirnaty Vaccination
   - "/studies/2021/11/28/10.1093_cid_ciab989.html"
-COVID-19 vaccine:
-- - Deaths associated with newly launched SARS-CoV-2 vaccination (Comirnaty®)
-  - "/studies_en/2021/04/17/10.1016_j.legalmed.2021.101895.html"
 Autopsy:
 - - Deaths associated with newly launched SARS-CoV-2 vaccination (Comirnaty®)
   - "/studies_en/2021/04/17/10.1016_j.legalmed.2021.101895.html"
@@ -2114,6 +2056,8 @@ Vitamin C:
 - - 'Immune-boosting role of vitamins D, C, E, zinc, selenium and omega-3 fatty acids:
     Could they help against COVID-19?'
   - "/studies/2020/08/08/10.1016_j.maturitas.2020.08.003.html"
+- - The Role of Vitamin C, Vitamin D, and Selenium in Immune System against COVID-19
+  - "/studies/2020/11/16/10.3390_molecules25225346.html"
 - - 'COVID-19 Pandemic and Immune Boost up: The Synergistic Role of Nutrients'
   - "/studies/2021/10/07/10.12944_CRNFSJ.9.3.04.html"
 - - 'The protective role of vitamin C in the management of COVID-19: A Review'
@@ -2390,6 +2334,8 @@ Low vitamin D status:
 - - 'Low vitamin D status is associated with coronavirus disease 2019 outcomes: a
     systematic review and meta-analysis'
   - "/studies_en/2021/01/01/10.1016_j.ijid.2020.12.077.html"
+- - 'Vitamin D and COVID-19: where are we now?'
+  - "/studies/2021/12/09/10.1080_00325481.2021.2017647.html"
 - - 'Low Serum 25-hydroxyvitamin D (Vitamin D) Level Is Associated With Susceptibility
     to COVID-19, Severity, and Mortality: A Systematic Review and Meta-Analysis'
   - "/studies/2021/03/29/10.3389_fnut.2021.660420.html"
@@ -2480,6 +2426,8 @@ Selenium:
   - "/studies/2020/08/08/10.1016_j.maturitas.2020.08.003.html"
 - - Trace Elements as Immunoregulators in SARS-CoV-2 and Other Viral Infections
   - "/studies/2021/01/23/10.1007_s12291-021-00961-6.html"
+- - The Role of Vitamin C, Vitamin D, and Selenium in Immune System against COVID-19
+  - "/studies/2020/11/16/10.3390_molecules25225346.html"
 - - 'COVID-19 Pandemic and Immune Boost up: The Synergistic Role of Nutrients'
   - "/studies/2021/10/07/10.12944_CRNFSJ.9.3.04.html"
 - - 'COVID-19 and Selenium Deficiency: a Systematic Review'
@@ -2578,8 +2526,6 @@ virus:
 - - An insight into SARS-CoV2 structure, Pathogenesis, target hunting for drug development
     and vaccine initiatives
   - "/studies/2022/01/25/10.1039-D2MD00009A.html"
-- - The Role of Vitamin C, Vitamin D, and Selenium in Immune System against COVID-19
-  - "/studies/2020/11/16/10.3390_molecules25225346.html"
 - - 'Role of ivermectin in patients hospitalized with COVID-19: a systematic review
     of literature'
   - "/studies/2021/09/02/10.5603_ARM.a2021.0088.html"
@@ -3629,7 +3575,7 @@ Cerebral venous sinus thrombosis:
   - "/studies/2021/10/09/10.1007_s15010-021-01712-8.html"
 - - Spectrum of neurological complications following COVID-19 vaccination
   - "/studies/2021/10/30/10.1007_s10072-021-05662-9.html"
-COVID-19 sepsis:
+Sepsis:
 - - 'Gut microbiome, Vitamin D, ACE2 interactions are critical factors in immune-senescence
     and inflammaging: key for vaccine response and severity of COVID-19 infection'
   - "/studies_en/2021/11/05/10.1007_s00011-021-01510-w.html"
@@ -3783,47 +3729,12 @@ Calcium:
 Bone:
 - - 'Hypocalcemia in COVID-19: Prevalence, clinical significance and therapeutic implications'
   - "/studies_en/2021/04/13/10.1007_s11154-021-09655-z.html"
-Covid-19:
-- - 'COVID-19 in Africa: rethinking the tools to manage future pandemics'
-  - "/studies_en/2021/12/14/10.4314_ahs.v21i4.3.html"
-- - 'The association between Vitamin D and severity in Covid-19 patient: systematic
-    review'
-  - "/studies/2021/12/01/10.1016_j.clnesp.2021.09.271.html"
-- - COVID-19 mortality is associated with low Vitamin D levels in patients with risk
-    factors and/or advanced age
-  - "/studies/2021/11/23/10.1016_j.clnesp.2021.11.025.html"
-- - 'Therapies to Prevent Progression of COVID-19, Including Hydroxychloroquine, Azithromycin,
-    Zinc, and Vitamin D3 With or Without Intravenous Vitamin C: An International,
-    Multicenter, Randomized Trial'
-  - "/studies/2021/11/25/10.7759_cureus.19902.html"
-- - Preliminary Findings of mRNA Covid-19 Vaccine Safety in Pregnant Persons
-  - "/studies/2021/04/21/10.1056_NEJMoa2104983.html"
-- - Comparison of Dementia Patients Admission Rates and Dementia Characteristics Before
-    and During the COVID-19 Pandemic
-  - "/studies/2021/11/27/10.7759_cureus.19934.html"
-- - The Relationship between Physical Activity and Immune Improvement in Covid-19
-    Prevention in Sebelimbingan Village Rt.03, Pulau Laut Utara District, Kotabaru
-    Regency
-  - "/studies/2021/12/31/JNHS_ISSN_2798-1118.html"
-- - Delay in assessing vitamin D supplements and live vaccines for tuberculosis, polio,
-    and measles to protect people from Covid-19
-  - "/studies/2021/12/05/10.31219_osf.io_swc7x.html"
 Ebola:
 - - 'COVID-19 in Africa: rethinking the tools to manage future pandemics'
   - "/studies_en/2021/12/14/10.4314_ahs.v21i4.3.html"
 Science Leadership in Africa:
 - - 'COVID-19 in Africa: rethinking the tools to manage future pandemics'
   - "/studies_en/2021/12/14/10.4314_ahs.v21i4.3.html"
-Vaccine:
-- - 'COVID-19 in Africa: rethinking the tools to manage future pandemics'
-  - "/studies_en/2021/12/14/10.4314_ahs.v21i4.3.html"
-- - 'Vaccine induced thrombotic thrombocytopenia: The shady chapter of a success story.'
-  - "/studies/2021/06/18/10.1016_j.metop.2021.100101.html"
-- - 'Fatal vaccine-induced immune thrombotic thrombocytopenia (VITT) post Ad26.COV2.S:
-    first documented case outside US'
-  - "/studies/2021/10/09/10.1007_s15010-021-01712-8.html"
-- - Prothrombotic immune thrombocytopenia after COVID-19 vaccination
-  - "/studies/2021/05/02/10.1016_j.ajem.2021.05.001.html"
 Preventative Health:
 - - 'COVID-19 in Africa: rethinking the tools to manage future pandemics'
   - "/studies_en/2021/12/14/10.4314_ahs.v21i4.3.html"
@@ -4026,8 +3937,6 @@ selenium:
 - - Approaches to Nutritional Screening in Patients with Coronavirus Disease 2019
     (COVID-19)
   - "/studies/2021/03/09/10.3390_ijerph18052772.html"
-- - The Role of Vitamin C, Vitamin D, and Selenium in Immune System against COVID-19
-  - "/studies/2020/11/16/10.3390_molecules25225346.html"
 - - Potential metal-related strategies for prevention and treatment of COVID-19
   - "/studies/2022/01/17/10.1007_s12598-021-01894-y.html"
 - - Toxicity of Food Supplements as An Adjuvant for COVID-19 Treatment or Prevention
@@ -4265,11 +4174,14 @@ Age:
     Patients of a North American Community Hospital Intensive Care Unit in May 2020:
     A Pilot Study'
   - "/studies_en/2020/09/18/10.1016_j.medidd.2020.100064.html"
-Body mass index:
+Body-Mass-Index:
 - - 'Serum Levels of Vitamin C and Vitamin D in a Cohort of Critically Ill COVID-19
     Patients of a North American Community Hospital Intensive Care Unit in May 2020:
     A Pilot Study'
   - "/studies_en/2020/09/18/10.1016_j.medidd.2020.100064.html"
+- - 'Associations between body-mass index and COVID-19 severity in 6·9 million people
+    in England: a prospective, community-based, cohort study'
+  - "/studies/2021/04/28/10.1016_S2213-8587(21)00089-9.html"
 BMI:
 - - 'Serum Levels of Vitamin C and Vitamin D in a Cohort of Critically Ill COVID-19
     Patients of a North American Community Hospital Intensive Care Unit in May 2020:
@@ -4385,6 +4297,18 @@ human health:
 - - Can Optimum Solar Radiation Exposure or Supplemented Vitamin D Intake Reduce the
     Severity of COVID-19 Symptoms?
   - "/studies_en/2021/01/16/10.3390_ijerph18020740.html"
+Infectious Diseases:
+- - Can Optimum Solar Radiation Exposure or Supplemented Vitamin D Intake Reduce the
+    Severity of COVID-19 Symptoms?
+  - "/studies_en/2021/01/16/10.3390_ijerph18020740.html"
+- - The clinical course of a 79-year-old stroke survivor in the setting of a late-onset
+    COVID-19 infection
+  - "/studies/2022/01/08/10.1177_2050313X211066646.html"
+- - Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the
+    Prophylaxis and Treatment of COVID-19
+  - "/studies/2021/04/22/10.1097_MJT.0000000000001377.html"
+- - The Role of Vitamin C, Vitamin D, and Selenium in Immune System against COVID-19
+  - "/studies/2020/11/16/10.3390_molecules25225346.html"
 spike-antibody waning:
 - - Spike-antibody waning after second dose of BNT162b2 or ChAdOx1
   - "/studies_en/2021/07/15/10.1016_S0140-6736(21)01642-1.html"
@@ -4730,10 +4654,6 @@ chronic diseases:
 Iraq:
 - - Effects of Vitamin D on Risks and Severity of COVID-19 Infection
   - "/studies_en/2021/12/04/10.22092_ARI.2021.356807.1914.html"
-body-mass index:
-- - 'Associations between body-mass index and COVID-19 severity in 6·9 million people
-    in England: a prospective, community-based, cohort study'
-  - "/studies_en/2021/04/28/10.1016_S2213-8587(21)00089-9.html"
 innate immunity:
 - - 'Tea Bioactive Modulate Innate Immunity: In Perception to COVID-19 Pandemic'
   - "/studies_en/2020/10/28/10.3389_fimmu.2020.590716.html"
@@ -4871,6 +4791,8 @@ Infection:
 - - 'Spontaneous HIT syndrome: Knee replacement, infection, and parallels with vaccine-induced
     immune thrombotic thrombocytopenia'
   - "/studies/2021/06/08/0.1016_j.thromres.2021.05.018.html"
+- - Necessity of COVID-19 vaccination in previously infected individuals
+  - "/studies/2021/06/19/10.1101_2021.06.01.21258176.html"
 - - Pre-existing polymerase-specific T cells expand in abortive seronegative SARS-CoV-2
   - "/studies/2021/11/10/10.1038_s41586-021-04186-8.html"
 Asia:
@@ -5000,37 +4922,6 @@ adaptive immunity:
 - - Immunological Aspects of SARS-CoV-2 Infection and the Putative Beneficial Role
     of Vitamin-D
   - "/studies/2021/05/16/10.3390_ijms22105251.html"
-vaccine:
-- - Putative Role of Vitamin D for COVID-19 Vaccination
-  - "/studies_en/2021/08/20/10.3390_ijms22168988.html"
-- - Considerations in boosting COVID-19 vaccine immune responses
-  - "/studies/2021/09/13/10.1016_S0140-6736(21)02046-8.html"
-- - Pathophysiology of Vaccine-Induced Prothrombotic Immune Thrombocytopenia (VIPIT)
-    and Vaccine-Induced Thrombocytopenic Thrombosis (VITT) and Their Diagnostic Approach
-    in Emergency.
-  - "/studies/2021/09/22/10.3390_medicina57100997.html"
-- - Immune imprinting, breadth of variant recognition, and germinal center response
-    in human SARS-CoV-2 infection and vaccination
-  - "/studies/2022/01/24/10.1016-j.cell.2022.01.018.html"
-- - 'Cutting Edge: Circulating Exosomes with COVID Spike Protein Are Induced by BNT162b2
-    (Pfizer–BioNTech) Vaccination prior to Development of Antibodies: A Novel Mechanism
-    for Immune Activation by mRNA Vaccines'
-  - "/studies/2021/10/15/10.4049_jimmunol.2100637.html"
-- - 'Symptomatic SARS-CoV-2 infections after full schedule BNT162b2 vaccination in
-    seropositive healthcare workers: a case series from a single institution'
-  - "/studies/2021/06/09/10.1080_22221751.2021.1942230.html"
-- - 'Sociodemographic Predictors Associated with the Willingness to Get Vaccinated
-    against COVID-19 in Peru: A Cross-Sectional Survey'
-  - "/studies/2021/12/30/10.3390_vaccines10010048.html"
-- - 'A review: Antibody-dependent enhancement in COVID-19: The not so friendly side
-    of antibodies'
-  - "/studies/2021/10/10/10.1177_20587384211050199.html"
-- - Relationship between Vitamin D Status and Antibody Response to COVID-19 mRNA Vaccination
-    in Healthy Adults
-  - "/studies/2021/11/18/10.3390_biomedicines9111714.html"
-- - SARS–CoV–2 Spike Impairs DNA Damage Repair and Inhibits V(D)J Recombination In
-    Vitro
-  - "/studies/2021/10/13/10.3390_v13102056.html"
 selenium deficiency:
 - - Selenium Deficiency Due to Diet, Pregnancy, Severe Illness, or COVID-19-A Preventable
     Trigger for Autoimmune Disease
@@ -5631,23 +5522,9 @@ respiratory illness:
 cell-free DNA marker:
 - - 'Cell-Free DNA: Potential Application in COVID-19 Diagnostics and Management'
   - "/studies_en/2022/02/04/10.3390-v14020321.html"
-prothrombotic immune thrombocytopenia:
+Prothrombotic Immune Thrombocytopenia:
 - - Prothrombotic immune thrombocytopenia after COVID-19 vaccination
   - "/studies_en/2021/07/29/10.1182_blood.2021011958.html"
-COVID-19 vaccination:
-- - Prothrombotic immune thrombocytopenia after COVID-19 vaccination
-  - "/studies_en/2021/07/29/10.1182_blood.2021011958.html"
-- - 'Effectiveness of Covid-19 Vaccination Against Risk of Symptomatic Infection,
-    Hospitalization, and Death Up to 9 Months: A Swedish Total-Population Cohort Study'
-  - "/studies/2021/10/25/10.2139_ssrn.3949410.html"
-- - 'Spontaneous HIT syndrome: Knee replacement, infection, and parallels with vaccine-induced
-    immune thrombotic thrombocytopenia'
-  - "/studies/2021/06/08/0.1016_j.thromres.2021.05.018.html"
-- - 'Cerebral venous thrombosis after vaccination against COVID-19 in the UK: a multicentre
-    cohort study'
-  - "/studies/2021/08/06/10.1016_S0140-6736(21)01608-1.html"
-- - Necessity of COVID-19 vaccination in previously infected individuals
-  - "/studies/2021/06/19/10.1101_2021.06.01.21258176.html"
 Lagevrio:
 - - 'Molnupiravir: an antiviral for the prevention of severe COVID-19'
   - "/studies_en/2022/01/20/10.1002_psb.1963.html"
@@ -5678,19 +5555,19 @@ Clinical trial:
     A randomized, double-blind, placebo-controlled, parallel-group trial. Results
     of the first interim analysis'
   - "/studies_en/2021/09/09/10.1016_j.eclinm.2021.101125.html"
-effectiveness:
+Effectiveness:
 - - 'Effectiveness of Covid-19 Vaccination Against Risk of Symptomatic Infection,
     Hospitalization, and Death Up to 9 Months: A Swedish Total-Population Cohort Study'
   - "/studies_en/2021/10/25/10.2139_ssrn.3949410.html"
-risk of symptomatic infection:
+Risk Of Symptomatic Infection:
 - - 'Effectiveness of Covid-19 Vaccination Against Risk of Symptomatic Infection,
     Hospitalization, and Death Up to 9 Months: A Swedish Total-Population Cohort Study'
   - "/studies_en/2021/10/25/10.2139_ssrn.3949410.html"
-risk of hospitalization:
+Risk Of Hospitalization:
 - - 'Effectiveness of Covid-19 Vaccination Against Risk of Symptomatic Infection,
     Hospitalization, and Death Up to 9 Months: A Swedish Total-Population Cohort Study'
   - "/studies_en/2021/10/25/10.2139_ssrn.3949410.html"
-risk of death:
+Risk Of Death:
 - - 'Effectiveness of Covid-19 Vaccination Against Risk of Symptomatic Infection,
     Hospitalization, and Death Up to 9 Months: A Swedish Total-Population Cohort Study'
   - "/studies_en/2021/10/25/10.2139_ssrn.3949410.html"
@@ -5769,7 +5646,7 @@ lung health:
 pulmonary chronic diseases:
 - - 'Immunomodulatory Role of Nutrients: How Can Pulmonary Dysfunctions Improve?'
   - "/studies_en/2021/09/07/10.3389_fnut.2021.674258.html"
-SARS-CoV-2. vaccine-induced immunity:
+vaccine-induced immunity:
 - - 'Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity: reinfections
     versus breakthrough infections'
   - "/studies_en/2021/08/25/10.1101_2021.08.24.21262415.html"
@@ -5941,7 +5818,7 @@ Alcohol:
 - - 'Nutrition and the Covid-19 pandemic: Three factors with high impact on community
     health'
   - "/studies_en/2020/12/07/10.1016_j.numecd.2020.12.001.html"
-25-hydroxyvitamin D. vitamin D receptor (VDR):
+vitamin D receptor (VDR):
 - - 'Vitamin D and COVID-19: where are we now?'
   - "/studies_en/2021/12/09/10.1080_00325481.2021.2017647.html"
 25-hydroxyvitamin D-1alpha-hydroxylase (CYP27B1):
@@ -5987,10 +5864,6 @@ academic performance:
     Performance during Covid-19
   - "/studies/2021/12/31/123456789_7100.html"
 Moderna:
-- - Immune imprinting, breadth of variant recognition, and germinal center response
-    in human SARS-CoV-2 infection and vaccination
-  - "/studies_en/2022/01/24/10.1016-j.cell.2022.01.018.html"
-Astra Zeneca:
 - - Immune imprinting, breadth of variant recognition, and germinal center response
     in human SARS-CoV-2 infection and vaccination
   - "/studies_en/2022/01/24/10.1016-j.cell.2022.01.018.html"
@@ -6040,6 +5913,12 @@ lymph node germinal center:
 - - Immune imprinting, breadth of variant recognition, and germinal center response
     in human SARS-CoV-2 infection and vaccination
   - "/studies_en/2022/01/24/10.1016-j.cell.2022.01.018.html"
+AstraZeneca:
+- - Immune imprinting, breadth of variant recognition, and germinal center response
+    in human SARS-CoV-2 infection and vaccination
+  - "/studies_en/2022/01/24/10.1016-j.cell.2022.01.018.html"
+- - Perspectives on vaccine induced thrombotic thrombocytopenia
+  - "/studies/2021/05/18/10.1016_j.jaut.2021.102663.html"
 Influenza virus:
 - - 'TMPRSS2: A potential target for treatment of influenza virus and coronavirus
     infections'
@@ -6116,22 +5995,6 @@ Vitamin:
     the Immune System Against COVID-19 and the Role of Cow’s Milk in the Supply of
     These Nutrients
   - "/studies/2021/11/27/10.1007_s12011-021-03045-x.html"
-Vaccines:
-- - 'SARS-CoV-2 vaccine-associated-tinnitus: A review'
-  - "/studies_en/2022/01/25/10.1016_j.amsu.2022.103293.html"
-- - Painless thyroiditis following mRNA vaccination for COVID-19
-  - "/studies/2022/01/15/10.1007_s42000-021-00346-7.html"
-- - Multisystem Inflammatory Syndrome after Ad26.COV2.S vaccination
-  - "/studies/2022/01/21/10.1016_j.idcr.2022.e01411.html"
-- - 'Serious complications of COVID-19 vaccines: A mini-review'
-  - "/studies/2021/10/30/10.1016_j.metop.2021.100145.html"
-- - Molecular Bases for Pharmacotherapy of COVID -19
-  - "/studies/2021/05/01/medical-and-clinical-research_ISSN_2577-8005.html"
-- - Myocarditis following COVID-19 vaccination – A case series
-  - "/studies/2021/10/08/10.1016_j.vaccine.2021.09.004.html"
-- - Principles for optimization and validation of mRNA lipid nanoparticle vaccines
-    against COVID-19 using 3D bioprinting
-  - "/studies/2022/01/21/10.1016_j.nantod.2022.101403.html"
 mRNA:
 - - 'SARS-CoV-2 vaccine-associated-tinnitus: A review'
   - "/studies_en/2022/01/25/10.1016_j.amsu.2022.103293.html"
@@ -6142,10 +6005,6 @@ mRNA:
 - - Principles for optimization and validation of mRNA lipid nanoparticle vaccines
     against COVID-19 using 3D bioprinting
   - "/studies/2022/01/21/10.1016_j.nantod.2022.101403.html"
-Infectious disease:
-- - The clinical course of a 79-year-old stroke survivor in the setting of a late-onset
-    COVID-19 infection
-  - "/studies_en/2022/01/08/10.1177_2050313X211066646.html"
 respiratory medicine:
 - - The clinical course of a 79-year-old stroke survivor in the setting of a late-onset
     COVID-19 infection
@@ -6514,6 +6373,8 @@ Corona:
 Virus:
 - - SARS-CoV-2 elicits robust adaptive immune responses regardless of disease severity
   - "/studies_en/2021/06/04/10.1016_j.ebiom.2021.103410.html"
+- - The Role of Vitamin C, Vitamin D, and Selenium in Immune System against COVID-19
+  - "/studies/2020/11/16/10.3390_molecules25225346.html"
 Mouthwashes:
 - - 'The effectiveness of mouthwash against SARS-CoV-2 infection: A review of scientific
     and clinical evidence'
@@ -6530,7 +6391,7 @@ Chlorhexidine:
 - - 'The effectiveness of mouthwash against SARS-CoV-2 infection: A review of scientific
     and clinical evidence'
   - "/studies_en/2021/10/08/10.1016_j.jfma.2021.10.001.html"
-Cerebral venous thrombosis:
+Cerebral Venous Thrombosis:
 - - 'Cerebral venous thrombosis after vaccination against COVID-19 in the UK: a multicentre
     cohort study'
   - "/studies_en/2021/08/06/10.1016_S0140-6736(21)01608-1.html"
@@ -6854,10 +6715,6 @@ respiratory distress syndrome:
   - "/studies_en/2021/12/22/10.3389_fmolb.2021.632290.html"
 - - Vitamin D Status and SARS-CoV-2 Infection and COVID-19 Clinical Outcomes
   - "/studies/2021/12/22/10.3389_fpubh.2021.736665.html"
-covid-19:
-- - Zinc sulfate in combination with a zinc ionophore may improve outcomes in hospitalized
-    COVID-19 patients
-  - "/studies_en/2020/09/15/10.1099_jmm.0.001250.html"
 ionophore:
 - - Zinc sulfate in combination with a zinc ionophore may improve outcomes in hospitalized
     COVID-19 patients
@@ -7165,9 +7022,6 @@ Weather:
 cytokine response regulation:
 - - 'The role of vitamin D in the age of COVID-19: A systematic review and meta-analysis'
   - "/studies_en/2021/07/29/10.1111_ijcp.14675.html"
-COVID-19 infection:
-- - Necessity of COVID-19 vaccination in previously infected individuals
-  - "/studies_en/2021/06/19/10.1101_2021.06.01.21258176.html"
 incidence:
 - - Necessity of COVID-19 vaccination in previously infected individuals
   - "/studies_en/2021/06/19/10.1101_2021.06.01.21258176.html"
@@ -7319,7 +7173,7 @@ Sedentary behavior:
 - - "“Wearables on vogue”: a scoping review on wearables on physical activity and
     sedentary behavior during COVID-19 pandemic"
   - "/studies_en/2022/01/07/10.1007_s11332-021-00885-x.html"
-COVID-19 pneumonia related thrombosis:
+Pneumonia related thrombosis:
 - - Mechanisms of Immunothrombosis in Vaccine-Induced Thrombotic Thrombocytopenia
     (VITT) Compared to Natural SARS-CoV-2 Infection
   - "/studies_en/2021/05/19/10.1016_j.jaut.2021.102662.html"
@@ -8070,6 +7924,9 @@ Physical Activity:
     Prevention in Sebelimbingan Village Rt.03, Pulau Laut Utara District, Kotabaru
     Regency
   - "/studies_en/2021/12/31/JNHS_ISSN_2798-1118.html"
+COVID-19 vaccines:
+- - New diagnosis of multiple sclerosis in the setting of mRNA COVID-19 vaccine exposure
+  - "/studies_en/2021/12/09/10.1016_j.jneuroim.2021.577785.html"
 Diagnosis:
 - - New diagnosis of multiple sclerosis in the setting of mRNA COVID-19 vaccine exposure
   - "/studies_en/2021/12/09/10.1016_j.jneuroim.2021.577785.html"
@@ -8107,7 +7964,7 @@ Prognosis:
 - - No independent associations between physical activity and clinical outcomes among
     hospitalized patients with moderate to severe COVID-19
   - "/studies_en/2021/08/21/10.1016_j.jshs.2021.08.001.html"
-COVID-19 Vaccine Breakthrough Infections:
+Vaccine Breakthrough Infections:
 - - 'COVID-19 Vaccine Breakthrough Infections Reported to CDC - United States, January
     1-April 30, 2021 '
   - "/studies_en/2021/05/28/10.15585_mmwr.mm7021e3.html"
@@ -8926,12 +8783,6 @@ mineral:
 nutrient:
 - - Toxicity of Food Supplements as An Adjuvant for COVID-19 Treatment or Prevention
   - "/studies_en/2022/01/01/10.11594-jtls.12.01.04.html"
-AstraZeneca:
-- - Perspectives on vaccine induced thrombotic thrombocytopenia
-  - "/studies_en/2021/05/18/10.1016_j.jaut.2021.102663.html"
-AstraZeneca vaccine:
-- - Perspectives on vaccine induced thrombotic thrombocytopenia
-  - "/studies_en/2021/05/18/10.1016_j.jaut.2021.102663.html"
 ChAdOx1 nCoV-19:
 - - Perspectives on vaccine induced thrombotic thrombocytopenia
   - "/studies_en/2021/05/18/10.1016_j.jaut.2021.102663.html"

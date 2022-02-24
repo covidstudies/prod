@@ -1,0 +1,16 @@
+---
+date:          2020-12-22
+title:         Journal of Cytokine Biology
+authors:       'Farshi, E'
+status:        default
+en:
+  subtitle:    'Cytokine Storm Response to COVID-19 Vaccinations'
+  description: 'Vaccination against SARS-Cov-2 may lead to Cytokine Storm Syndrome in some vaccinated people. We tested vaccination in 33 monkeys and 200 mice and we found vaccinated animals were able to fight off the virus well with resulting a quickly clearing the virus from their lungs except two monkeys and 9 mice. Those two monkeys along 9 mice showed syndrome of cytokine storm in their lungs. This result is extremely important for human vaccination. Therefore, it is clear using traditional method of vaccination for COVID-19 isn’t correct way because different people have different immune response to a vaccine. It seems developing a smart vaccine for SARS-Cov-2 could be a good solution for syndrome of cytokine storm because such type of smart vaccines may deliver necessary dose to different people together delivering of necessary doses to different organs (for example lung) of a person. Claiming that 170 different types of SARS-Cov-2 vaccines produce enough or more than enough immunity (specially after second shot of vaccine) sounds terrible without a real test of those vaccines, while all of producers of such vaccines have plan to start public vaccination soon. This may lead a tragedy.'
+  tags:        [SARSCovCytokine, Storm, Syndrome, Acute, respiratory, distress, syndrome]
+de:
+  subtitle:    'Entschädigungsprogramme für COVID-19-Impfstoffverletzungen'
+  description: 'Impfung gegen SARS-Cov-2 kann bei einigen Geimpften zu einem Zytokinsturm Syndrom bei einigen geimpften Personen führen. Wir haben die Impfung an 33 Affen und 200 Mäusen getestet und festgestellt, dass die geimpften Tiere geimpften Tiere in der Lage waren, das Virus gut zu bekämpfen und es schnell aus ihren mit Ausnahme von zwei Affen und 9 Mäusen. Diese beiden Affen und 9 Mäusen zeigten das Syndrom eines Zytokinsturms in der Lunge. Dieses Ergebnis ist für die Impfung von Menschen äußerst wichtig. Daher ist es klar, dass die traditionelle Methode der Impfung gegen COVID-19 nicht der richtige Weg ist, da verschiedene Menschen eine unterschiedliche Immunantwort auf einen Impfstoff haben. Es scheint, dass die Entwicklung eines intelligenten Impfstoffs für SARS-Cov-2 eine gute Lösung für das Syndrom des Zytokinsturms sein könnte, da diese Art von intelligenten Impfstoffen die erforderliche Dosis an verschiedene Personen abgeben kann, indem sie die erforderlichen Dosen an verschiedene Organe (z. B. die Lunge) einer Person abgeben. Die Behauptung, dass 170 verschiedene Typen von SARS-Cov-2-Impfstoffen eine genügend oder mehr als genügend Immunität (besonders nach der zweiten Impfung) Impfstoffs) klingt schrecklich, ohne dass diese Impfstoffe wirklich getestet wurden, während alle Hersteller solcher Impfstoffe planen, die öffentliche Impfung bald zu beginnen. Dies könnte zu einer Tragödie führen.' 
+  tags:        [SARSCovCytokine, Sturm, Syndrom, Akut, Atmung, distress, Syndrom]
+group:         'Vaccines'
+credit:        https://www.omicsonline.org/open-access/cytokine-storm-response-to-covid19-vaccinations.pdf
+---
