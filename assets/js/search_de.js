@@ -22,7 +22,7 @@
 
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<article><h3>No results found.</h3></article>';
+      searchResults.innerHTML = '<article><h3>Keine Resultate gefunden.</h3></article>';
     }
   }
 
@@ -47,6 +47,7 @@
     // Initalize lunr with the fields it will be searching on. I've given title
     // a boost of 10 to indicate matches on this field are more important.
     var idx = lunr(function () {
+      this.use(lunr.de);
       this.field('id');
       this.field('article');
       this.field('date');
