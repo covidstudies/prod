@@ -2,8 +2,8 @@
 Akutes Respiratorisches Distress-Syndrom:
   tags:
   - akutes Atemnotsyndrom (ARDS)
-  - distress
   - Akutes Respiratorisches Distress-Syndrom (ARDS)
+  - distress
   aliases:
   - ARDS
   matches:
@@ -50,15 +50,8 @@ Antikörper:
   - monoklonale Anti-SARS-CoV-2-Antikörper
   - Antikörper-positiv
   - Antikörper-negativ
-  - Antikörper-abhängige Verstärkung
-  - Antikörperreaktion
   matches: []
   aliases: []
-Antioxidantien:
-  tags:
-  - Antioxidantienstatus
-  aliases: []
-  matches: []
 Antiviral:
   tags:
   - antivirales Potential
@@ -92,24 +85,22 @@ Behandlung:
   - Frühbehandlung
   - COVID-19-Behandlung
   - Behandlung im Frühstadium
-  - Virusbehandlung
   matches: []
   aliases: []
 Bewegung:
   tags:
-  - körperliche Inaktivität
   - Bewegungsverhalten
-  - körperliche Aktivität
-  - sitzendes Verhalten
-  - sitzende Tätigkeit
-  - körperliches Aktivitätsniveau
   - Bewegungsmangel
-  - körperliche Fitness
+  - körperliche Aktivität nach der Pandemie
+  - körperliche Inaktivität
+  - körperliches Aktivitätsniveau
   - körperliche Betätigung
   - Körperliche Inaktivität
   - körperliche Anstrengung
-  - körperliche Aktivität nach der Pandemie
-  - Bewegungsmesser
+  - körperliche Aktivität
+  - körperliche Fitness
+  - sitzendes Verhalten
+  - sitzende Tätigkeit
   matches:
   - körperlich
   - sitzend
@@ -130,10 +121,6 @@ Delta-Variante:
   matches:
   - Delta
   aliases: []
-Depression:
-  tags: []
-  aliases: []
-  matches: []
 Diabetes:
   tags:
   - Diabetes mellitus
@@ -163,20 +150,17 @@ Entzündung:
   - entzündungshemmende Stoffe
   - ernährungsbedingter Entzündungsindex
   - entzündungshemmende Medikamente
-  - Herzentzündung
   matches: []
   aliases: []
 Ernährung:
   tags:
   - pflanzliche Ernährung
   - vegane Ernährung
-  - Nahrungsergänzungsmittel
   - Mangelernährung
   - Ernährungsmuster
   - COVID-19 und Ernährung
   - Ernährungsungleichheiten
   - Ernährungsbedingte Immunität
-  - Essen zum Mitnehmen
   - Qualität der Ernährung
   - Doppelbelastung durch Mangelernährung
   - Ernährungsverhalten
@@ -184,26 +168,19 @@ Ernährung:
   - Ernährungsdefizite
   - mediterrane Ernährung
   - ernährungsbedingter Entzündungsindex
+  - Essen zum Mitnehmen
+  - Nahrungsergänzung
+  - Nahrungsergänzungsmittel
   - Nahrungsaufnahme
-  - Unterernährung
-  - ungesunde Ernährung
-  - Ernährungstherapie
-  - enterale Ernährung
-  - Ernährungsbewertung
   matches:
   - Essen
   - Nahrung
   aliases:
   - Nahrungsergänzung
-  - Nutrazeutika
   denys:
   - Interessen
   - Messenger
   - Essentiell
-Etesevimab:
-  tags: []
-  aliases: []
-  matches: []
 Gesundheit:
   tags:
   - psychische Gesundheit
@@ -212,7 +189,6 @@ Gesundheit:
   - Gesundheitsverhalten
   - Mitarbeiter des Gesundheitswesens
   - Gesundheitsvorsorge
-  - gesundes Altern
   - Öffentliche Gesundheit
   - menschliche Gesundheit
   - Online-Gesundheitsinformationen
@@ -220,10 +196,8 @@ Gesundheit:
   - Gesundheitsbeschwerden
   - betriebliche Gesundheitsförderung
   - Gesundheitsinformationen
-  - Gesundheitszustand
   - Lungengesundheit
   - geistige Gesundheit
-  - gesunder Lebensstil
   - ganzheitliche Gesundheit
   - Gesundheitssicherheit
   - Gesundheitspersonal
@@ -235,15 +209,9 @@ Gesundheit:
   - Mentale Gesundheit
   - Metabolische Gesundheit
   - pharmazeutische Gesundheitsinfrastruktur
-  - Gesundheitsrisiko
-  - Bewertung der psychischen Gesundheit
-  - selbstberichtete Gesundheit
-  - Gesundheit von Frauen
-  - Muskuloskelettale Gesundheit
-  - physische Gesundheit
-  - Gesundheit des Immunsystems
-  - ungesunde Ernährung
-  - öffentliche Gesundheit
+  - gesundes Altern
+  - gesunder Lebensstil
+  - Gesundheitszustand
   matches:
   - gesund
   aliases: []
@@ -252,12 +220,9 @@ Gewicht:
   - Gewichtsveränderungen
   - Körpergewicht
   - Gewichtszunahme
-  - viszerale Adipositas
-  - Kinder-Adipositas
   aliases:
   - Fettleibigkeit
   - Übergewicht
-  - Adipositas
   denys:
   - Gleichgewicht
   matches: []
@@ -279,15 +244,14 @@ Immunglobuline:
   - Anti-Spike-IgG
   - IgG
   - IgA
+  - Epigallocatechingallat
+  - Fertiggerichte
+  - Ciganilmab
   matches:
   - Immunglobulin
-  - "^IgA"
-  - "^IgG"
-  - " IgA"
-  - " IgG"
   aliases:
-  - IgA$
-  - IgG$
+  - IgA
+  - IgG
 Immunität:
   tags:
   - T-Zellen-Immunität
@@ -309,9 +273,9 @@ Immunität:
   aliases: []
 Immunmodulation:
   tags:
-  - immunmodulatorische Wirkung
   - Immunomodulation
   - Immunomodulator
+  - immunmodulatorische Wirkung
   - immunmodulierende Nährstoffe
   - Immunmodulator
   - immunmodulierende Wirkstoffe
@@ -322,7 +286,6 @@ Immunmodulation:
 Immunsystem:
   tags:
   - geschwächtes Immunsystem
-  - Gesundheit des Immunsystems
   aliases: []
   matches: []
 Impfstatus:
@@ -333,22 +296,10 @@ Impfstatus:
   - Geimpft
   - Ungeimpft
   matches: []
-Impfstoff (mRNA):
-  tags:
-  - mRNA-Impfstoff
-  - mrna
-  - LNP-formulierte mRNA-Impfstoffe
-  - mRNA COVID-19-Impfstoffe
-  - mRNA-Omicron
-  - mRNA-1273
-  - mRNA-Impfstoffe
-  - messenger RNA (mRNA) COVID-19 Impfstoffe
-  - mRNA-basierter Impfstoff
-  matches:
-  - mRNA
-  aliases: []
 Impfstoffe:
   tags:
+  - SARS-CoV-2-Impfungen
+  - Impfstoffe
   - Impfstoff-Durchbruchsinfektionen
   - impfstoffinduzierte immunthrombotische Thrombozytopenie
   - mRNA-Impfstoff
@@ -356,20 +307,15 @@ Impfstoffe:
   - Ad26.COV2-Impfstoff
   - Impfstoff-induzierte immunthrombotische Thrombozytopenie
   - Covid-Impfstoff-Wirksamkeit
-  - Impfstoffadjuvans
-  - Impfstoff-Nanoträger
   - Wirksamkeit des Impfstoffs
   - Impfstofftyp
   - Impfstoff-induzierte thrombotische Thrombozytopenie
   - Impfstoff-Nebenwirkungen
   - LNP-formulierte mRNA-Impfstoffe
   - Impfstoff der Universität Oxford
-  - mRNA COVID-19-Impfstoffe
   - Anti-SARS-CoV-2-Impfstoff
   - Impfstoff-induzierte Immunität
   - ChAdOx1 nCoV-19 Coronavirus-Impfstoff
-  - COVID-19-Impfstoff
-  - Impfstoff von Pfizer
   - Impfstoff-induzierte thrombotische Thrombozytopenie (VITT)
   - Ergänzung zu Impfstoffen
   - Impfstoff-Nationalismus
@@ -378,19 +324,22 @@ Impfstoffe:
   - mRNA-Impfstoffe
   - Virale Vektorimpfstoffe
   - Impfstoffsicherheit
-  - Anti-Impfstoff
-  - SARS-CoV-2-Impfungen
   - messenger RNA (mRNA) COVID-19 Impfstoffe
   - Impfstoffschutz
   - Impfstoff Durchbruchinfektionen
   - Wirksamkeit der Impfstoffe
-  - Impfstoffmisstrauen
   - Adenovirus-vermittelte Impfstoffe
   - Vermeidung von heparinähnlichen Antikoagulantien ChAdOx-Impfstoff
   - Adenovirus-Vektor-DNA & RNA-basierte SARS-CoV-2-Impfstoffe
   - mRNA-basierter Impfstoff
-  - SARS-CoV-2-Impfstoffe
-  - COVID-19-impfstoffe
+  - Impfung
+  - Impfstoffadjuvans
+  - Impfstoff-Nanoträger
+  - mRNA COVID-19-Impfstoffe
+  - COVID-19-Impfstoff
+  - Impfstoff von Pfizer
+  - Anti-Impfstoff
+  - Impfstoffmisstrauen
   aliases:
   - Impfung
   matches:
@@ -403,7 +352,6 @@ Infektion:
   - Atemwegsinfektionen
   - Reinfektion
   - Rolle bei der COVID-19-Infektion
-  - Infektionsrisiko
   - akute Atemwegsinfektion (ARTI)
   - Infektionskrankheiten der Atemwege
   - Prä-Infektion
@@ -413,6 +361,7 @@ Infektion:
   - Virusinfektion
   - Atemwegsvirusinfektion
   - Vitamin-D3-Spiegel vor der Infektion
+  - Infektionsrisiko
   - Virusinfektionen
   - Infektionsraten
   - Infektionsausbruch
@@ -424,7 +373,6 @@ Infektion:
   - akute virale Infektionen der Atemwege
   - Schwere der Infektion
   - frühere Infektion
-  - virale Infektion
   matches: []
   aliases: []
 Influenza:
@@ -437,10 +385,10 @@ Influenza:
 Intensivstation:
   tags:
   - Pädiatrische Intensivstation
+  - Aufnahme auf der Intensivstation
   - ICU-Aufnahme
   - Intensivpflege
   - Intensivpatient
-  - Aufnahme auf der Intensivstation
   - Ergebnisse der Intensivpflege
   aliases:
   - ICU
@@ -457,12 +405,10 @@ Interleukin:
   - Zytokinsturm
   - Zytokine
   - Regulierung der Zytokinantwort
-  - löslicher IL-6R
   - Zytokin-Sturm-Syndrom
-  - Interleukin-6
   - entzündliche Zytokine
-  - Zytokinsturm-Marker
-  - Zytokin-Sturm
+  - löslicher IL-6R
+  - Interleukin-6
   matches:
   - IL6
   - IL-6
@@ -480,8 +426,7 @@ Isolation:
   aliases:
   - Quarantäne
 Ivermectin:
-  tags:
-  - non-ivermectin
+  tags: []
   aliases: []
   matches: []
 Jugend:
@@ -498,14 +443,6 @@ Jugend:
   - Teenager
   aliases:
   - Kind
-Krankenhaus:
-  tags:
-  - Krankenhausaufenthalt
-  - Risiko eines Krankenhausaufenthalts
-  - hospitalisierte Patienten
-  aliases:
-  - Spital
-  matches: []
 Krankheit:
   tags:
   - Infektionskrankheiten
@@ -544,8 +481,6 @@ Krankheit:
   - Coronavirus-induzierte Krankheit 2019
   - akutes respiratorisches Krankheitssyndrom
   - neurologische Erkrankung
-  - Autoimmunkrankheiten
-  - Prionenkrankheiten
   aliases:
   - Erkrankung
   matches: []
@@ -592,8 +527,6 @@ Lopinavir:
 Magnesium:
   tags:
   - Magnesium-Supplementierung
-  - Magnesium aus der Umwelt
-  - Magnesiummangel
   matches: []
   aliases: []
 Mangel:
@@ -607,7 +540,6 @@ Mangel:
   - Doppelbelastung durch Mangelernährung
   - Zinkmangel
   - Mangel an spezifischen Medikamenten
-  - Magnesiummangel
   aliases: []
   matches: []
 Maske:
@@ -622,30 +554,26 @@ Medikamente:
   tags:
   - antivirale Medikamente
   - Repurposing von Medikamenten
-  - Selbstmedikationspraktiken
   - wiederverwendete Medikamente
   - Repurposing-Medikamente
-  - Repurposing von Arzneimitteln
-  - Verabreichung von Arzneimitteln
-  - Arzneimittelwechselwirkung
   - Medikamenten-Repurposing
-  - Überwachungsprogramme für verschreibungspflichtige Arzneimittel
-  - Arzneimittelwirksamkeit
   - orale Anti-COVID-19 Medikamente
   - antivirales Medikament
-  - pflanzliche Arzneimittel
-  - nutrazeutische Arzneimittel
-  - rezeptfreie Arzneimittel
-  - niedermolekulare Arzneimittel
-  - Selbstmedikation
   - Medikamentenwirksamkeit
   - Mangel an spezifischen Medikamenten
   - Medikamente auf Metallbasis
   - entzündungshemmende Medikamente
-  - Prozess der Arzneimittelentdeckung
-  - Wiederverwendung von Arzneimitteln
-  - Arzneimittelziel
-  - orale Arzneimittel
+  - Selbstmedikationspraktiken
+  - Selbstmedikation
+  - Repurposing von Arzneimitteln
+  - Verabreichung von Arzneimitteln
+  - Arzneimittelwechselwirkung
+  - Überwachungsprogramme für verschreibungspflichtige Arzneimittel
+  - Arzneimittelwirksamkeit
+  - pflanzliche Arzneimittel
+  - nutrazeutische Arzneimittel
+  - rezeptfreie Arzneimittel
+  - niedermolekulare Arzneimittel
   matches:
   - Medikament
   - Medikation
@@ -678,10 +606,6 @@ Mikronährstoffe:
   matches:
   - Mikronährstoff
   aliases: []
-Mineralien:
-  tags: []
-  aliases: []
-  matches: []
 Moderna:
   tags: []
   aliases:
@@ -698,7 +622,6 @@ Mortalität:
   - CVD und COVID-19 Komorbidität
   - Komorbidität-COVID-19
   - Komorbiditäten
-  - Impfsterblichkeit
   aliases:
   - Sterblichkeit
   - Morbidität
@@ -720,7 +643,6 @@ Myokarditis:
   tags:
   - fulminante Myokarditis
   - COVID-19-Injektionsbedingte Myokarditis (CIRM)
-  - akute Myokarditis
   aliases: []
   matches: []
 Nebenwirkungen:
@@ -777,21 +699,21 @@ Paxlovid:
   matches: []
 Peptide:
   tags:
-  - Thymosin-α
   - Antimikrobielle Peptide
   - Peptide und Proteine
-  - antimikrobielles Peptid
   - Cathelicidin Peptide
+  - antimikrobielles Peptid
+  - Thymosin-α
   aliases: []
   matches:
   - Peptid
   - Thymosin
 Pfizer:
   tags:
-  - BNT162b2
   - Pfizer-Biontech
-  - Impfstoff von Pfizer
+  - BNT162b2
   - BNT162B2
+  - Impfstoff von Pfizer
   aliases:
   - BioNTech
   - BNT162
@@ -805,26 +727,15 @@ Pflanzen:
   - pflanzliche Arzneimittel
   - Pflanzen-Selen-Verbindungen
   - pflanzliche Stoffe
-  - traditionelle pflanzliche Medizin
   matches:
   - pflanzlich
   aliases: []
-Plättchenfaktor 4:
-  tags:
-  - Plättchenfaktor 4/Polyanion-Komplex
-  - DNA-PF4-Interaktionen
-  - Antiplättchenfaktor 4
-  - PF4-Antikörper
-  aliases:
-  - PF4
-  matches: []
 Polyphenole:
   tags:
   - Tee-Polyphenole
   aliases:
   - Flavonoide
   - Flavanoide
-  - Quercetin
   matches: []
 Post-Covid:
   tags:
@@ -848,7 +759,6 @@ Proteine:
   - COVID Spike Protein
   - Importin-Protein
   - Spike-Protein
-  - P-Glykoprotein
   matches:
   - Protein
   aliases: []
@@ -858,7 +768,6 @@ Prävention:
   - Lebensstilprävention
   - Coronavirus-Krankheit-2019-Prävention
   - SARS-CoV-2-Prävention
-  - Virusprävention
   matches: []
   aliases: []
 Remdesivir:
@@ -892,7 +801,6 @@ Ritonavir:
 Schlaf:
   tags:
   - Schlafqualität
-  - Schlafdauer
   aliases: []
   matches: []
 Schwangerschaft:
@@ -906,14 +814,6 @@ Schweregrad:
   - klinischer Schweregrad
   - COVID-19-Schweregrad
   aliases: []
-  matches: []
-Schweres Akutes Respiratorisches Syndrom:
-  tags:
-  - schweres akutes respiratorisches Syndrom
-  - SARS
-  - Schweres Akutes Respiratorisches Syndrom Coronavirus 2
-  aliases:
-  - "^SARS$"
   matches: []
 Selen:
   tags:
@@ -937,10 +837,10 @@ Serum:
   matches: []
 Spike-Protein:
   tags:
+  - COVID Spike Protein
   - Anti-Spike neutralisierende Antikörper
   - Spike-Antikörper-Abnahme
   - Anti-Spike-IgG
-  - COVID Spike Protein
   - S1-Spike-Mutation
   aliases: []
   matches:
@@ -949,13 +849,13 @@ Sport:
   tags:
   - sportliche Aktivität
   - Sportbeteiligung
-  - Aerobes Training
   - Sport und Raum
   - Sportanbieter
-  - Trainingsbelastung
   - sportliche Betätigung
   - sportliche Leistung
   - Sport für alle
+  - Aerobes Training
+  - Trainingsbelastung
   - Online-Trainingsprogramm
   aliases:
   - Training
@@ -984,11 +884,11 @@ Stress:
   - Distress
 Supplementierung:
   tags:
-  - Vitamin-D-Supplementation
   - Vitamin-E-Supplementierung
   - Vitaminsupplementierung
   - Magnesium-Supplementierung
   - Vitamin-D-Supplementierung
+  - Vitamin-D-Supplementation
   aliases: []
   matches:
   - Supplementation
@@ -997,7 +897,6 @@ Symptome:
   - Frühe Symptome zu Hause
   - depressive Symptome
   - respiratorische Symptome
-  - neuropsychiatrische Symptome
   aliases: []
   matches: []
 T-Zellen:
@@ -1008,7 +907,6 @@ T-Zellen:
   - CD8 T-Zellen
   - regulatorische T-Zellen
   - kreuzreaktive CD4+ T-Zellen
-  - CD4+ T cells
   aliases:
   - CD4
   - CD8
@@ -1019,8 +917,7 @@ Tee:
   - Grüner Tee
   - Teegetränk
   - Tee-Polyphenol
-  aliases:
-  - EGCG
+  aliases: []
   matches: []
   denys:
   - Teenager
@@ -1039,9 +936,6 @@ Therapie:
   - Phototherapie
   - Therapietreue
   - Unterstützende Therapie
-  - therapeutische Aspekte
-  - therapeutische Strategien
-  - Ernährungstherapie
   matches:
   - therapeutisch
   aliases: []
@@ -1073,17 +967,17 @@ Thrombozyten:
   - Impfstoff-induzierte thrombotische Thrombozytopenie
   - Thrombose mit Thrombozytopenie-Syndrom
   - Prothrombotische Immunthrombozytopenie
-  - Autoimmun-HIT (aHIT)
   - Heparin-induzierte Thrombozytopenie (HIT)
   - Impfstoff-induzierte thrombotische Thrombozytopenie (VITT)
-  - VITT-Modell
-  - Thrombozytenfaktor-4-Antikörper
   - Impfstoff-assoziierte thrombotische Thrombozytopenie
   - Impfstoff-induzierte (immunologische) thrombotische Thrombozytopenie
-  - Rachitis
-  - Thrombozyten-aktivierender Faktor
   - Thrombotische Thrombozytopenie Purpura
   - Heparin-induzierte Thrombozytopenie
+  - Autoimmun-HIT (aHIT)
+  - VITT-Modell
+  - Rachitis
+  - Thrombozytenfaktor-4-Antikörper
+  - Thrombozyten-aktivierender Faktor
   matches: []
   aliases:
   - Thrombozytopenie
@@ -1118,14 +1012,13 @@ Tuberkulose:
 Ultraviolette Strahlung:
   tags:
   - UV-B
-  - ultraviolettes Licht
   - solares UV-B
   - UV-A
+  - ultraviolettes Licht
   matches:
   - UV-
   - ultraviolet
-  aliases:
-  - Sonnenlicht
+  aliases: []
 Unerwünschte Ereignisse:
   tags:
   - unerwünschte Ereignisse
@@ -1135,25 +1028,18 @@ Unerwünschte Ereignisse:
   matches: []
 Virus:
   tags:
-  - Virale Infektionen
   - Coronavirus-Krankheit 2019
   - Coronavirus-Erkrankung 2019
   - Viruseintritt
   - Virusübertragung
   - Atemwegsvirus
   - Virus and oxidativer stress
-  - Adenoviraler Vektor
   - Adenovirus
-  - Influenzaviren
   - Virusinfektionen der Atemwege
-  - Virale Immunität
-  - viral kodierte Selenoproteine
   - SARS-CoV-2 RNA-Virus und RNA-Mutanten
-  - Viral 3CLpro
   - Coronavirus-Erkrankung (COVID-19)
   - Schweres Akutes Respiratorisches Syndrom Coronavirus 2
   - SARS-CoV-2-Virus
-  - Coronaviren
   - Virusinfektion
   - ChAdOx1 nCoV-19 Coronavirus-Impfstoff
   - Influenzavirus
@@ -1163,26 +1049,28 @@ Virus:
   - Coronaviruserkrankung 2019
   - Coronavirus-Erkrankungen-19
   - Coronavirus-Krankheit-2019-Prävention
-  - Virusvarianten
-  - Virale Vektorimpfstoffe
-  - Antivirus
   - Viruslast
   - Humanes Immundefizienz-Virus
-  - virale Clearance
-  - akute virale Infektionen der Atemwege
   - Coronavirus-induzierte Krankheit 2019
   - 2019 neuartiges Coronavirus
   - Adenovirus-vermittelte Impfstoffe
   - Adenovirus-DNA-Integration in Säugetiergenome
   - Adenovirus-Vektor-DNA-Integration in menschliches Genom
-  - Expression adenoviraler Gene in Vektor-DNA
   - Adenovirus-Vektor-DNA & RNA-basierte SARS-CoV-2-Impfstoffe
   - SARS-Cov-2-Virus
-  - virale Infektion
-  - Coronavirus
-  - Enterovirus
-  - Virusprävention
-  - Virusbehandlung
+  - Virusvarianten
+  - Influenzaviren
+  - Coronaviren
+  - Virale Infektionen
+  - Adenoviraler Vektor
+  - Virale Immunität
+  - viral kodierte Selenoproteine
+  - Viral 3CLpro
+  - Virale Vektorimpfstoffe
+  - virale Clearance
+  - akute virale Infektionen der Atemwege
+  - Expression adenoviraler Gene in Vektor-DNA
+  - Antivirus
   matches:
   - Viren
   - viral
@@ -1207,41 +1095,39 @@ Vitamin C:
   aliases: []
 Vitamin D:
   tags:
+  - Serum Vitamin D
   - Vitamin-D-verwandte Gene
   - hochdosierte orale Vitamin-D-Therapie
   - Vitamin D-Mangel
-  - Vitamin-D-Supplementation
   - niedriger Vitamin-D-Status
   - 25-Hydroxyvitamin D
-  - 25(OH)D3
-  - 24.25(OH)2D3
-  - 3-epi-25(OH)D3
   - Vitamin D Toxizität
-  - Serum Vitamin D
-  - Vitamin-D-Mangel
   - Vitamin D3
   - Vitamin D-Rezeptor
   - Vitamin-D-Rezeptor (VDR)
   - 25-Hydroxyvitamin D-1alpha-Hydroxylase (CYP27B1)
   - Vitamin-D3-Spiegel vor der Infektion
   - niedriger 25(OH)-Vitamin-D-Plasmaspiegel
-  - 25(OH)D
   - Vitamin-D-Rezeptoren (VDR)
   - 1-25-Dihidroxyvitamin D
   - Vitamin-D-Insuffizienz
-  - 1.25(OH)2D
   - 1.25-Dihydroxyvitamin D
   - 25-Hydroxyvitamin D31α
-  - 25(OH)2D
   - 25-Dihydroxyvitamin D
   - Vitamin-D-Status
   - Vitamin-D-Supplementierung
   - Serum-Vitamin-D-Spiegel
-  - vitamin D
+  - Vitamin-D-Supplementation
+  - Vitamin-D-Mangel
+  - 25(OH)D3
+  - 24.25(OH)2D3
+  - 3-epi-25(OH)D3
+  - 25(OH)D
+  - 1.25(OH)2D
+  - 25(OH)2D
   matches: []
   aliases:
   - 25\(OH\)
-  - Calcifediol
 Vitamin E:
   tags:
   - Vitamin-E-Supplementierung
@@ -1249,13 +1135,17 @@ Vitamin E:
   aliases: []
 Vitamine:
   tags:
-  - Vitamin
   - Omega-3-Vitamine
+  - Vitamin
   aliases: []
   matches:
   - Vitamin$
 Vorbeugung:
-  tags: []
+  tags:
+  - Erfahrung in der Behandlung
+  - Frühbehandlung
+  - COVID-19-Behandlung
+  - Behandlung im Frühstadium
   aliases: []
   matches: []
 Vorsorge:
@@ -1293,23 +1183,35 @@ Zink:
   aliases: []
 Zitrusfrüchte:
   tags:
-  - Zitrusflavanone
   - Orangen
   - Süßorange
+  - Zitrusflavanone
   matches:
   - Zitrone
   - Orange
   - Zitrus
   aliases: []
+mRNA-Impfstoff:
+  tags:
+  - LNP-formulierte mRNA-Impfstoffe
+  - mRNA-Impfstoffe
+  - mRNA-Omicron
+  - mRNA-1273
+  - mRNA
+  - messenger RNA (mRNA) COVID-19 Impfstoffe
+  - mRNA-basierter Impfstoff
+  - mrna
+  - mRNA COVID-19-Impfstoffe
+  matches:
+  - mRNA
+  aliases: []
 Ältere Menschen:
   tags:
   - ältere Erwachsene
-  - Senioren
   - Älterwerden
   - ältere Bevölkerung
   - ältere Frauen
   - Ältere Erwachsene
   matches:
   - älter
-  - Senior
   aliases: []
